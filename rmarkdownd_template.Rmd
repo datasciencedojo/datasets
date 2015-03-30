@@ -53,6 +53,6 @@ output:
 * Yuhui Zhang (Instructor)  
   yuhui@datasciencedojo.com
 
-* Lisa Nicholson
+* Lisa Nicholson  
   lisa@datasciencedojo.com
 
