@@ -1,0 +1,58 @@
+---
+title: "Work and fun in Data Science Dojo"
+author: your name
+date: 
+output:
+  pdf_document:
+    toc: true
+---
+
+[linked phrase](http://datasciencedojo.com/)
+
+# My story of Titanic tragedy
+
+## Obtain the data
+<!-- You may want to load data here -->
+
+## Overview of the data
+<!-- You may want to do the preliminary exploration of the data, using str(), summary(), head(), class(), etc.  -->
+<!-- Also write down your feelings of the data -->
+
+## Modification of the original data
+<!-- You can revise the data you got. -->
+<!-- For example: if you feel the feature Survived should better to be a factor, you can do something like: titanic$Survived = factor(titanic$Survived, labels=c("died", "survived")) -->
+
+## First plot of Titanic data
+<!-- Make your first plot of Titanic data, and write down what you see from the plot. -->
+<!-- Feel free to revise the headers to make this storybook nicer. -->
+
+## Second plot of Titanic data
+<!-- Make the 2nd, 3rd, 4th plots from here. Doesn't need to be a lot, but try to make every single one telling. -->
+
+## Your summary of the Titanic data (story of Titanic tragedy)
+* First...
+* Second...
+* Third...
+* Fourth...
+
+# Another course in Data Science Dojo
+<!-- Keep adding your note, code and thoughts during the bootcamp! -->
+
+# Another course in Data Science Dojo
+
+# Important contacts in DSD bootcamp
+* Raja Iqbal (Instructor)  
+  raja@datasciencedojo.com
+  
+* Jasmine Wilkerson (Instructor)  
+  jasmine@datasciencedojo.com
+
+* Phuc Duong (Instructor)  
+  phuchduong@datasciencedojo.com
+
+* Yuhui Zhang (Instructor)  
+  yuhui@datasciencedojo.com
+
+* Lisa Nicholson
+  lisa@datasciencedojo.com
+
