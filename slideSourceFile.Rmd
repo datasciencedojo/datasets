@@ -1,0 +1,544 @@
+---
+title: "Data Exploration, Visualization, and Feature Engineering using R"
+author: "Yuhui Zhang, and Raja Iqbal"
+mode: standalone
+output: pdf_document
+framework: flowtime
+url:
+  lib: /home/yuhui/Copy/YDSDojo/bootcamp/slidify/slidifyExamples/libraries
+---
+
+
+<!-- no space between code and its results -->
+```{r, echo=FALSE}
+library(knitr)
+hook1 <- function(x){ gsub("```\n*```r*\n*", "", x) }
+hook2 <- function(x){ gsub("```\n+```\n", "", x) }
+## knit_hooks$set(document = hook2)      
+```
+
+# Basic plotting systems
+1. Base graphics: constructed piecemeal. Conceptually simpler and allows plotting to mirror the thought process.
+2. Lattice graphics: entire plots created in a simple function call.
+3. ggplot2 graphics: an implementation of the Grammar of Graphics by Leland Wikinson. Combines concepts from both base and lattice graphics. (Need to install ggplot2 library)
+4. Fancier and more telling ones.
+
+A list of interactive visualization in R can be found at: http://ouzor.github.io/blog/2014/11/21/interactive-visualizations.html
+
+---
+
+## Base plotting system
+
+```{r, fig.width=6, fig.height=5}
+library(datasets)
+## scatter plot
+plot(x = airquality$Temp, y = airquality$Ozone)
+```
+
+***
+
+## Base plotting system
+```{r, fig.width=15, fig.height=4.5}
+## par() function is used to specify global graphics parameters that affect all plots in an R session.
+## Type ?par to see all parameters
+par(mfrow = c(1, 2), mar = c(4, 4, 2, 1), oma = c(0, 0, 2, 0))
+with(airquality, {
+	plot(Wind, Ozone, main="Ozone and Wind")
+	plot(Temp, Ozone, main="Ozone and Temperature")
+	mtext("Ozone and Weather in New York City", outer=TRUE)})
+```
+
+***
+
+## Plotting functions (high level)
+<img src="drawDraft.jpg", style="float:right;width:300px;height:190px"">
+
+**PHASE ONE: Mount a canvas panel on the easel, and draw the draft.** (Initialize a plot.)
+
+* plot(): one of the most frequently used plotting functions in R.
+* boxplot(): a boxplot show the distribution of a vector. It is very useful to example the distribution of different variables.
+* barplot(): create a bar plot with vertical or horizontal bars.
+* hist(): compute a histogram of the given data values.
+* pie(): draw a pie chart.
+
+Remember to use ?plot or str(plot), etc. to check the arguments when you want to make more personalized plots. A tutorial of base plotting system with more details: http://bcb.dfci.harvard.edu/~aedin/courses/BiocDec2011/2.Plotting.pdf
+
+***
+
+## Plotting functions (low level)
+<img src="drawDetails.png", style="float:right;width:300px;height:220px"">
+
+**PHASE TWO: Add more details on your canvas, and make an artwork.** (Add more on an existing plot.)
+
+* lines: adds liens to a plot, given a vector of x values and corresponding vector of y values
+* points: adds a point to the plot
+* text: add text labels to a plot using specified x,y coordinates
+* title: add annotations to x,y axis labels, title, subtitles, outer margin
+* mtext: add arbitrary text to margins (inner or outer) of plot
+* axis: specify axis ticks
+
+***
+
+## Save your artwork
+<img src="saveArtwork.jpg", style="float:right;width:300px;height:220px"">
+R can generate graphics (of varying levels of quality) on almost any type of display or printing device. Like:
+
+* postscript(): for printing on PostScript printers, or creating PostScript graphics files.
+* pdf(): produces a PDF file, which can also be included into PDF files.
+* jpeg(): produces a bitmap JPEG file, best used for image plots.
+
+help(Devices) for a list of them all. Simple example:
+```{r}
+## png(filename = 'plot1.png', width = 480, height = 480, units = 'px')
+## plot(x, y)
+## dev.off()
+```
+
+***
+
+## Example: boxplot and hitogram
+
+<img src="quantile.gif", style="width:350px;height:175px;float:right">
+
+```{r, fig.width=8, fig.height=4.5}
+## the layout
+par(mfrow = c(2, 1), mar = c(2, 0, 2, 0), oma = c(0, 0, 0, 0))
+## histogram at the top
+hist(airquality$Ozone, breaks=12, main = "Histogram of Ozone")
+## box plot below for comparison
+boxplot(airquality$Ozone, horizontal=TRUE, main = "Box plot of Ozone")
+```
+
+---
+
+## Lattice plotting system
+```{r, fig.width=15, fig.height=4.5}
+library(lattice) # need to load the lattice library
+set.seed(10) # set the seed so our plots are the same
+x <- rnorm(100)
+f <- rep(1:4, each = 25) # first 25 elements are 1, second 25 elements are 2, ...
+y <- x + f - f * x+ rnorm(100, sd = 0.5)
+f <- factor(f, labels = c("Group 1", "Group 2", "Group 3", "Group 4"))
+# first 25 elements are in Group 1, second 25 elements are in Group 2, ...
+xyplot(y ~ x | f)
+```
+
+***
+
+## Lattice plotting system
+Want more on the plot? Customize the panel funciton:
+```{r, fig.keep = 'none'}
+xyplot(y ~ x | f, panel = function(x, y, ...) {
+    # call the default panel function for xyplot
+    panel.xyplot(x, y, ...)
+    # adds a horizontal line at the median
+    panel.abline(h = median(y), lty = 2)
+    # overlays a simple linear regression line
+    panel.lmline(x, y, col = 2) 
+})
+```
+
+***
+
+## Lattice plotting system
+```{r, echo=FALSE}
+xyplot(y ~ x | f, panel = function(x, y, ...) {
+    # call the default panel function for xyplot
+    panel.xyplot(x, y, ...)
+    # adds a horizontal line at the median
+    panel.abline(h = median(y), lty = 2)
+    # overlays a simple linear regression line
+    panel.lmline(x, y, col = 2) 
+})
+```
+
+***
+
+## Lattice plotting system
+Plotting functions
+* xyplot():  main function for creating scatterplots
+* bwplot():  box and whiskers plots (box plots)
+* histogram():  histograms
+* stripplot():  box plot with actual points
+* dotplot():  plot dots on "violin strings"
+* splom():  scatterplot matrix (like pairs() in base plotting system)
+* levelplot()/contourplot():  plotting image data
+
+***
+
+## Very useful when we want a lot...
+```{r}
+pairs(iris) ## iris is a data set in R
+```
+
+---
+
+## ggplot2 
+* An implementation of the Grammar of Graphics by Leland Wikinson
+* Written by Hadley Wickham (while he was a graduate student as lowa State)
+* A "third" graphics system for R (along with base and lattice)  
+	Available from CRAN via install.packages()  
+	web site: http://ggplot2.org (better documentation)
+* Grammar of graphics represents the abstraction of graphics ideas/objects  
+  Think "verb", "noun", "adjective" for graphics  
+  "Shorten" the distance from mind to page
+* Two main functions:  
+  **qplot()** hides what goes on underneath, which is okay for most operations
+  **ggplot()** is the core function and very flexible for doing this qplot() cannot do
+
+***
+
+## qplot function
+The qplot() function is the analog to plot() but with many build-in features  
+Syntax somewhere in between base/lattice  
+Difficult to be customized (don't bother, use full ggplot2 power in that case)
+```{r, fig.width=8, fig.height=3}
+library(ggplot2) ## need to install and load this library
+qplot(displ, hwy, data = mpg, facets = .~drv)
+```
+
+***
+
+## ggplot function
+When building plots in ggplot2 (ggplot, rather than using qplot)  
+The "artist's palette" model may be the closest analogy  
+Plots are built up in layers  
+* Step I: Input the data  
+**noun**: the data
+```{r}
+library(ggplot2) ## need to install and load this library
+g <- ggplot(iris, aes(Sepal.Length, Sepal.Width)) ## this would not show you add plot
+```
+
+***
+
+## ggplot function
+* Step II: Add layers  
+**adjective**: describe the type of plot you will produce.
+```{r, fig.width=12, fig.height=4.5}
+g + geom_point() + geom_smooth(method = "lm") + facet_grid(. ~ Species)
+```
+
+***
+
+## ggplot function
+* Step III: Add metadata and annotation  
+**adjective**: control the mapping between data and aesthetics.
+```{r, fig.width=12, fig.height=4.5}
+g <- g + geom_point() + geom_smooth(method = "lm") + facet_grid(. ~ Species)  
+g + ggtitle("Sepal length vs. width for different species") + theme_bw() ## verb
+```
+
+***
+
+## Great documentation
+Great **documentation** of ggplot with all functions in **step II** and **III** and demos:  
+http://docs.ggplot2.org/current/
+
+---
+
+# Titanic tragedy data
+
+<img src="Titanic.jpg", style="width:791px;height:509px"">
+
+---
+
+## Reading RAW training data
+* Download the data set "Titanic_train.csv" from
+https://raw.githubusercontent.com/datasciencedojo/datasets/master/Titanic_train.csv
+* Set working directory of R to the directory of the file using setwd()
+```{r}
+titanic = read.csv('Titanic_train.csv')
+```
+
+***
+
+## Look at the first few rows
+What would be some good features to consider here?
+
+```{r}
+options(width = 110)
+head(titanic)
+```
+
+***
+
+## What is the data type of each column?
+```{r}
+sapply(titanic,class)
+```
+
+***
+
+## Converting class label to a factor
+```{r}
+titanic$Survived = factor(titanic$Survived, labels=c("died", "survived"))
+titanic$Embarked = factor(titanic$Embarked, labels=c("unkown", "Cherbourg", "Queenstown", "Southampton"))
+sapply(titanic,class)
+str(titanic$Survived)
+str(titanic$Sex)
+```
+
+---
+
+## Class distribution - PIE Charts
+```{r, fig.width=3, fig.height=3}
+survivedTable = table(titanic$Survived)
+survivedTable
+par(mar = c(0, 0, 0, 0), oma = c(0, 0, 0, 0))
+pie(survivedTable,labels=c("Died","Survived"))
+```
+
+***
+
+## Is Sex a good predictor?
+<!-- plotting area: http://research.stowers-institute.org/mcm/efg/R/Graphics/Basics/mar-oma/index.htm -->
+```{r, fig.width=14, fig.height=4.5}
+male = titanic[titanic$Sex=="male",]
+female = titanic[titanic$Sex=="female",]
+par(mfrow = c(1, 2), mar = c(0, 0, 2, 0), oma = c(0, 1, 0, 1))
+pie(table(male$Survived),labels=c("Dead","Survived"),  main="Survival Portion Among Men")
+pie(table(female$Survived),labels=c("Dead","Survived"), main="Survival Portion Among Women")
+```
+
+---
+
+## Is Age a good predictor?
+```{r}
+Age <- titanic$Age; summary(Age)
+```
+
+How about summary segmented by **survival**
+```{r}
+summary(titanic[titanic$Survived=="died",]$Age)
+summary(titanic[titanic$Survived=="survived",]$Age)
+```
+
+***
+
+## Age distribution by Survival and Sex
+```{r, fig.width=14, fig.height=6}
+par(mfrow = c(1, 2), mar = c(4, 4, 2, 2), oma = c(1, 1, 1, 1))
+boxplot(titanic$Age~titanic$Sex, main="Age Distribution By Gender",col=c("red","green"))
+boxplot(titanic$Age~titanic$Survived, main="Age Distribution By Survival",col=c("red","green"),
+        xlab="0:Died 1:Survived",ylab="Age")
+```
+
+***
+
+## Histogram of Age
+```{r, fig.width=6, fig.height=6}
+hist(Age, col="blue", xlab="Age", ylab="Frequency",
+     main = "Distribution of Passenger Ages on Titanic")
+```
+
+***
+
+## Kernel density plot of age
+```{r, fig.width=6, fig.height=5.5}
+d = density(na.omit(Age)) # density(Age) won't work, need to omit all NAs
+plot(d, main = "kernel density of Ages of Titanic Passengers")
+polygon(d, col="red", border="blue")
+```
+
+***
+
+## Comparison of density plots of Age with different Sex
+```{r, echo=FALSE}
+titanic_na_removed = na.omit(titanic)
+library(sm) # reference package, may need you to install sm library first
+sm.density.compare(titanic_na_removed$Age, titanic_na_removed$Sex,xlab="Age of Passenger")
+title(main="Kernel Density Plot of Ages By Sex")
+colfill<-c(2:(2+ length(levels(titanic_na_removed$Sex))))
+legend("topright", legend=levels(titanic_na_removed$Sex), fill=colfill)
+```
+
+***
+
+## Did Age have an impact on survival?
+```{r, echo=FALSE, fig.width=23, fig.height=8}
+library(sm) # reference package, may need you to install sm library first
+par(mfrow = c(1, 3), mar = c(4, 4, 5, 2), oma = c(1, 1, 2, 1))
+
+plot(d, main = "kernel density of Ages of Titanic Passengers", cex.main=3)
+polygon(d, col="red", border="blue")
+
+sm.density.compare(titanic_na_removed$Age, titanic_na_removed$Sex,xlab="Age of Passenger")
+title(main="Kernel Density Plot of Ages By Sex", cex.main=3)
+colfill<-c(2:(2+ length(levels(titanic_na_removed$Sex))))
+legend("topright", legend=levels(titanic_na_removed$Sex), fill=colfill)
+
+sm.density.compare(titanic_na_removed$Age, titanic_na_removed$Survived,xlab="Age of Passenger")
+title(main="Kernel Density Plot of Ages By Survival", cex.main=3)
+colfill<-c(2:(2+ length(levels(titanic_na_removed$Survived))))
+legend("topright", legend=levels(titanic_na_removed$Survived), fill=colfill)
+```
+
+***
+
+## Create categorical groupings: Adult vs Child
+An example of **feature engineering**!
+```{r}
+## Multi dimensional comparison            
+Child <- titanic$Age # Isolating age.
+## Now we need to create categories: NA = Unknown, 1 = Child, 2 = Adult
+## Every age below 13 (exclusive) is classified into age group 1
+Child[Child<13] <- 1
+## Every child 13 or above is classified into age group 2
+Child[Child>=13] <- 2
+```
+```{r}
+# Use labels instead of 0's and 1's
+Child[Child==1] <- "Child"
+Child[Child==2] <- "Adult"
+# Appends the new column to the titanic dataset
+titanic_with_child_column <- cbind(titanic, Child)
+# Removes rows where age is NA
+titanic_with_child_column <- titanic_with_child_column[!is.na(titanic_with_child_column$Child),]
+```
+
+---
+
+## Fare matters?
+```{r, echo=FALSE, fig.width=8, fig.height=6.5}
+library(ggplot2)
+ggplot(titanic_with_child_column, aes(y=Fare, x=Survived)) + geom_boxplot() + facet_grid(Sex~Child)
+## Plot may differ depending  # on your definition of a child
+```
+***
+
+## How about fare, ship class, port embarkation?
+```{r, echo=FALSE, fig.width=17, fig.height=5}
+library(ggplot2)
+titanic$Pclass = as.factor(titanic$Pclass)
+ggplot(titanic, aes(y=Fare, x=Pclass)) + geom_boxplot() + facet_grid(~Embarked)
+
+```
+
+---
+
+# Diamond data
+
+<img src="Diamond.jpg", style="width:791px;height:509px"">
+
+---
+
+## Overview of the diamond data
+```{r}
+data(diamonds) # loading diamonds data set
+head(diamonds, 16) # first few rows of diamond data set
+```
+
+***
+
+## Histogram of carat
+```{r, fig.width=8, fig.height=5}
+library(ggplot2)
+ggplot(data=diamonds) + geom_histogram(aes(x=carat))
+```
+
+***
+
+## Density plot of carat
+```{r, fig.width=8, fig.height=5}
+ggplot(data=diamonds) + 
+geom_density(aes(x=carat),fill="gray50")
+```
+
+***
+
+## Scatter plots (carat vs. price)
+```{r, fig.width=9, fig.height=6}
+ggplot(diamonds, aes(x=carat,y=price)) + geom_point()
+```
+
+***
+
+## Carat with colors
+```{r, fig.width=9, fig.height=6}
+g = ggplot(diamonds, aes(x=carat, y=price)) # saving first layer as variable
+g + geom_point(aes(color=color)) # rendering first layer and adding another layer
+```
+
+***
+
+## Carat with colors (more details)
+```{r, fig.width=10, fig.height=7}
+g + geom_point(aes(color=color)) + facet_wrap(~color)
+```
+
+***
+
+## Let's consider cut and clarity
+```{r, fig.width=15, fig.height=8, echo=FALSE}
+g + geom_point(aes(color=color)) + facet_grid(cut~clarity)
+```
+
+***
+
+## Your trun!
+What is your knowledge of diamond's price after exploring this data?
+
+<img src="DiamondExport.jpg", style="width:568px;height:392px"">
+
+---
+
+# Interactive visualization in R - rCharts
+* What is rCharts?  
+  Is an R package to create, customize and publish interactive javascript visualizations from R using a familiar lattice style plotting interface.
+
+* What rCharts can make and how?  
+  Quick start at: http://ramnathv.github.io/rCharts/
+
+* A list of interactive visualization in R can be found at:  
+  http://ouzor.github.io/blog/2014/11/21/interactive-visualizations.html
+
+---
+
+# Tell your story - R Markdown
+* R Markdown is an authoring format that enables easy creation of dynamic documents, presentations, and reports from R.  
+* It combines the core syntax of markdown (an easy-to-write plain text format) with embedded R code chunks that are run so their output can be included in the final document.  
+* Many available output formats including HTML, PDF, and MS Word
+* **Installation**  
+  Use RStudio: already installed  
+  Outside of RStudio: install.packages("rmarkdown"). A recent version of pandoc (>= 1.12.3) is also required. See https://github.com/rstudio/rmarkdown/blob/master/PANDOC.MD to install it.
+
+***
+
+## Check out Markdown first
+> Markdown is a markup language with plain text formatting syntax designed so that it can be converted to HTML and many other formats using a tool by the same name.
+
+One minute you get the point, and always check the cheat sheets  
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists
+
+***
+
+## Then, R Markdown sample code
+Download the template:  
+https://github.com/datasciencedojo/datasets/blob/master/rmarkdownd_template.Rmd
+
+## R Markdown
+* YAML header
+* Edit Markdown, and R chunks
+* Run!  
+  RStudio: knitr button  
+  Command line: render("file.Rmd")  
+
+Cheat sheet of rmarkdown:  
+http://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf
+
+---
+
+# Present your story of Titanic!
+Use
+* Titanic data
+* Plotting functions in R
+* R Markdown template
+* **The heart of data explorer**
+
+to write your story of Titanic...
+
+***
+
+## Hope this is inspiring :)
+[Titanic](https://vimeo.com/21941048)
