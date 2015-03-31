@@ -262,7 +262,7 @@ id,name,country_code,district,population
 261,Vila Velha,BRA,EspIrito Santo,318758
 262,Pelotas,BRA,Rio Grande do Sul,315415
 263,Bauru,BRA,Sao Paulo,313670
-264,Porto Velho,BRA,Rondônia,309750
+264,Porto Velho,BRA,Rondonia,309750
 265,Serra,BRA,EspIrito Santo,302666
 266,Betim,BRA,Minas Gerais,302108
 267,JundIaI,BRA,Sao Paulo,296127
@@ -438,7 +438,7 @@ id,name,country_code,district,population
 437,Coronel Fabriciano,BRA,Minas Gerais,95933
 438,Birigui,BRA,Sao Paulo,94685
 439,TatuI,BRA,Sao Paulo,93897
-440,Ji-Parana,BRA,Rondônia,93346
+440,Ji-Parana,BRA,Rondonia,93346
 441,Bacabal,BRA,Maranhao,93121
 442,Cameta,BRA,Para,92779
 443,GuaIba,BRA,Rio Grande do Sul,92224
@@ -1447,7 +1447,7 @@ id,name,country_code,district,population
 1446,Qomsheh,IRN,Esfahan,89800
 1447,Dublin,IRL,Leinster,481854
 1448,Cork,IRL,Munster,127187
-1449,ReykjavIk,ISL,Höfuðborgarsvæði,109184
+1449,ReykjavIk,ISL,Hofuoborgarsvaeoi,109184
 1450,Jerusalem,ISR,Jerusalem,633700
 1451,Tel Aviv-Jaffa,ISR,Tel Aviv,348100
 1452,Haifa,ISR,Haifa,265700
@@ -1500,7 +1500,7 @@ id,name,country_code,district,population
 1499,Latina,ITA,Latium,114099
 1500,Vicenza,ITA,Veneto,109738
 1501,Terni,ITA,umbria,107770
-1502,Forlì,ITA,Emilia-Romagna,107475
+1502,Forli,ITA,Emilia-Romagna,107475
 1503,Trento,ITA,Trentino-Alto Adige,104906
 1504,Novara,ITA,Piemonte,102037
 1505,Piacenza,ITA,Emilia-Romagna,98384
@@ -1804,7 +1804,7 @@ id,name,country_code,district,population
 1803,Douala,CMR,Littoral,1448300
 1804,Yaounde,CMR,Centre,1372800
 1805,Garoua,CMR,Nord,177000
-1806,Maroua,CMR,Extrême-Nord,143000
+1806,Maroua,CMR,Extreme-Nord,143000
 1807,Bamenda,CMR,Nord-Ouest,138000
 1808,Bafoussam,CMR,Ouest,131000
 1809,Nkongsamba,CMR,Littoral,112454
@@ -1863,10 +1863,10 @@ id,name,country_code,district,population
 1862,Shymkent,KAZ,South Kazakstan,360100
 1863,Taraz,KAZ,Taraz,330100
 1864,Astana,KAZ,Astana,311200
-1865,Öskemen,KAZ,East Kazakstan,311000
+1865,oskemen,KAZ,East Kazakstan,311000
 1866,Pavlodar,KAZ,Pavlodar,300500
 1867,Semey,KAZ,East Kazakstan,269600
-1868,Aqtöbe,KAZ,Aqtöbe,253100
+1868,Aqtobe,KAZ,Aqtobe,253100
 1869,Qostanay,KAZ,Qostanay,221400
 1870,Petropavl,KAZ,North Kazakstan,203500
 1871,Oral,KAZ,West Kazakstan,195500
@@ -1875,7 +1875,7 @@ id,name,country_code,district,population
 1874,Aqtau,KAZ,Mangghystau,143400
 1875,Atyrau,KAZ,Atyrau,142500
 1876,Ekibastuz,KAZ,Pavlodar,127200
-1877,Kökshetau,KAZ,North Kazakstan,123400
+1877,Kokshetau,KAZ,North Kazakstan,123400
 1878,Rudnyy,KAZ,Qostanay,109500
 1879,Taldyqorghan,KAZ,Almaty,98000
 1880,Zhezqazghan,KAZ,Qaraghandy,90000
@@ -1915,7 +1915,7 @@ id,name,country_code,district,population
 1914,Guiyang,CHN,Guizhou,1465200
 1915,Ningbo,CHN,Zhejiang,1371200
 1916,Hefei,CHN,Anhui,1369100
-1917,urumtSi [Ürümqi],CHN,Xinxiang,1310100
+1917,urumtSi [urumqi],CHN,Xinxiang,1310100
 1918,Anshan,CHN,Liaoning,1200000
 1919,Fushun,CHN,Liaoning,1200000
 1920,Nanning,CHN,Guangxi,1161800
@@ -2275,7 +2275,7 @@ id,name,country_code,district,population
 2274,Soacha,COL,Cundinamarca,272058
 2275,Valledupar,COL,Cesar,263247
 2276,MonterIa,COL,Cordoba,248245
-2277,ItagüI,COL,Antioquia,228985
+2277,ItaguI,COL,Antioquia,228985
 2278,Palmira,COL,Valle,226509
 2279,Buenaventura,COL,Valle,224336
 2280,Floridablanca,COL,Santander,221913
@@ -2413,7 +2413,7 @@ id,name,country_code,district,population
 2412,Osijek,HRV,Osijek-Baranja,104761
 2413,La Habana,CuB,La Habana,2256000
 2414,Santiago de Cuba,CuB,Santiago de Cuba,433180
-2415,Camagüey,CuB,Camagüey,298726
+2415,Camaguey,CuB,Camaguey,298726
 2416,HolguIn,CuB,HolguIn,249492
 2417,Santa Clara,CuB,Villa Clara,207350
 2418,Guantanamo,CuB,Guantanamo,205078
@@ -2809,7 +2809,7 @@ id,name,country_code,district,population
 2808,Bergen,NOR,Hordaland,230948
 2809,Trondheim,NOR,Sor-Trondelag,150166
 2810,Stavanger,NOR,Rogaland,108848
-2811,Bærum,NOR,Akershus,101340
+2811,Baerum,NOR,Akershus,101340
 2812,Abidjan,CIV,Abidjan,2500000
 2813,Bouake,CIV,Bouake,329850
 2814,Yamoussoukro,CIV,Yamoussoukro,130000
@@ -2924,7 +2924,7 @@ id,name,country_code,district,population
 2923,Caguas,PRI,Caguas,140502
 2924,Arecibo,PRI,Arecibo,100131
 2925,Guaynabo,PRI,Guaynabo,100053
-2926,Mayagüez,PRI,Mayagüez,98434
+2926,Mayaguez,PRI,Mayaguez,98434
 2927,Toa Baja,PRI,Toa Baja,94085
 2928,Warszawa,POL,Mazowieckie,1615369
 2929,Lodz,POL,Lodzkie,800110
@@ -2973,10 +2973,10 @@ id,name,country_code,district,population
 2972,Malabo,GNQ,Bioko,40000
 2973,Doha,QAT,Doha,355000
 2974,Paris,FRA,Île-de-France,2125246
-2975,Marseille,FRA,Provence-Alpes-Côte,798430
-2976,Lyon,FRA,Rhône-Alpes,445452
+2975,Marseille,FRA,Provence-Alpes-Cote,798430
+2976,Lyon,FRA,Rhone-Alpes,445452
 2977,Toulouse,FRA,Midi-Pyrenees,390350
-2978,Nice,FRA,Provence-Alpes-Côte,342738
+2978,Nice,FRA,Provence-Alpes-Cote,342738
 2979,Nantes,FRA,Pays de la Loire,270251
 2980,Strasbourg,FRA,Alsace,264115
 2981,Montpellier,FRA,Languedoc-Roussillon,225392
@@ -2984,21 +2984,21 @@ id,name,country_code,district,population
 2983,Rennes,FRA,Haute-Normandie,206229
 2984,Le Havre,FRA,Champagne-Ardenne,190905
 2985,Reims,FRA,Nord-Pas-de-Calais,187206
-2986,Lille,FRA,Rhône-Alpes,184657
+2986,Lille,FRA,Rhone-Alpes,184657
 2987,St-etienne,FRA,Bretagne,180210
-2988,Toulon,FRA,Provence-Alpes-Côte,160639
-2989,Grenoble,FRA,Rhône-Alpes,153317
+2988,Toulon,FRA,Provence-Alpes-Cote,160639
+2989,Grenoble,FRA,Rhone-Alpes,153317
 2990,Angers,FRA,Pays de la Loire,151279
 2991,Dijon,FRA,Bourgogne,149867
 2992,Brest,FRA,Bretagne,149634
 2993,Le Mans,FRA,Pays de la Loire,146105
 2994,Clermont-Ferrand,FRA,Auvergne,137140
 2995,Amiens,FRA,Picardie,135501
-2996,Aix-en-Provence,FRA,Provence-Alpes-Côte,134222
+2996,Aix-en-Provence,FRA,Provence-Alpes-Cote,134222
 2997,Limoges,FRA,Limousin,133968
 2998,Nîmes,FRA,Languedoc-Roussillon,133424
 2999,Tours,FRA,Centre,132820
-3000,Villeurbanne,FRA,Rhône-Alpes,124215
+3000,Villeurbanne,FRA,Rhone-Alpes,124215
 3001,Metz,FRA,Lorraine,123776
 3002,Besancon,FRA,Franche-Comte,117733
 3003,Caen,FRA,Basse-Normandie,113987
@@ -3047,18 +3047,18 @@ id,name,country_code,district,population
 3046,Resita,ROM,Caras-Severin,93976
 3047,Kigali,RWA,Kigali,286000
 3048,Stockholm,SWE,Lisboa,750348
-3049,Gothenburg [Göteborg],SWE,West Götanmaan lan,466990
-3050,Malmö,SWE,Skåne lan,259579
+3049,Gothenburg [Goteborg],SWE,West Gotanmaan lan,466990
+3050,Malmo,SWE,Skåne lan,259579
 3051,uppsala,SWE,uppsala lan,189569
-3052,Linköping,SWE,East Götanmaan lan,133168
+3052,Linkoping,SWE,East Gotanmaan lan,133168
 3053,Vasterås,SWE,Vastmanlands lan,126328
-3054,Örebro,SWE,Örebros lan,124207
-3055,Norrköping,SWE,East Götanmaan lan,122199
+3054,orebro,SWE,orebros lan,124207
+3055,Norrkoping,SWE,East Gotanmaan lan,122199
 3056,Helsingborg,SWE,Skåne lan,117737
-3057,Jönköping,SWE,Jönköpings lan,117095
+3057,Jonkoping,SWE,Jonkopings lan,117095
 3058,umeå,SWE,Vasterbottens lan,104512
 3059,Lund,SWE,Skåne lan,98948
-3060,Borås,SWE,West Götanmaan lan,96883
+3060,Borås,SWE,West Gotanmaan lan,96883
 3061,Sundsvall,SWE,Vasternorrlands lan,93126
 3062,Gavle,SWE,Gavleborgs lan,90742
 3063,Jamestown,SHN,Saint Helena,1500
@@ -3068,29 +3068,29 @@ id,name,country_code,district,population
 3067,Saint-Pierre,SPM,Saint-Pierre,5808
 3068,Berlin,DEu,Berliini,3386667
 3069,Hamburg,DEu,Hamburg,1704735
-3070,Munich [München],DEu,Baijeri,1194560
-3071,Köln,DEu,Nordrhein-Westfalen,962507
+3070,Munich [Munchen],DEu,Baijeri,1194560
+3071,Koln,DEu,Nordrhein-Westfalen,962507
 3072,Frankfurt am Main,DEu,Hessen,643821
 3073,Essen,DEu,Nordrhein-Westfalen,599515
 3074,Dortmund,DEu,Nordrhein-Westfalen,590213
-3075,Stuttgart,DEu,Baden-Württemberg,582443
-3076,Düsseldorf,DEu,Nordrhein-Westfalen,568855
+3075,Stuttgart,DEu,Baden-Wurttemberg,582443
+3076,Dusseldorf,DEu,Nordrhein-Westfalen,568855
 3077,Bremen,DEu,Bremen,540330
 3078,Duisburg,DEu,Nordrhein-Westfalen,519793
 3079,Hannover,DEu,Niedersachsen,514718
 3080,Leipzig,DEu,Saksi,489532
-3081,Nürnberg,DEu,Baijeri,486628
+3081,Nurnberg,DEu,Baijeri,486628
 3082,Dresden,DEu,Saksi,476668
 3083,Bochum,DEu,Nordrhein-Westfalen,392830
 3084,Wuppertal,DEu,Nordrhein-Westfalen,368993
 3085,Bielefeld,DEu,Nordrhein-Westfalen,321125
-3086,Mannheim,DEu,Baden-Württemberg,307730
+3086,Mannheim,DEu,Baden-Wurttemberg,307730
 3087,Bonn,DEu,Nordrhein-Westfalen,301048
 3088,Gelsenkirchen,DEu,Nordrhein-Westfalen,281979
-3089,Karlsruhe,DEu,Baden-Württemberg,277204
+3089,Karlsruhe,DEu,Baden-Wurttemberg,277204
 3090,Wiesbaden,DEu,Hessen,268716
-3091,Münster,DEu,Nordrhein-Westfalen,264670
-3092,Mönchengladbach,DEu,Nordrhein-Westfalen,263697
+3091,Munster,DEu,Nordrhein-Westfalen,264670
+3092,Monchengladbach,DEu,Nordrhein-Westfalen,263697
 3093,Chemnitz,DEu,Saksi,263222
 3094,Augsburg,DEu,Baijeri,254867
 3095,Halle/Saale,DEu,Anhalt Sachsen,254360
@@ -3100,45 +3100,45 @@ id,name,country_code,district,population
 3099,Magdeburg,DEu,Anhalt Sachsen,235073
 3100,Kiel,DEu,Schleswig-Holstein,233795
 3101,Oberhausen,DEu,Nordrhein-Westfalen,222349
-3102,Lübeck,DEu,Schleswig-Holstein,213326
+3102,Lubeck,DEu,Schleswig-Holstein,213326
 3103,Hagen,DEu,Nordrhein-Westfalen,205201
 3104,Rostock,DEu,Mecklenburg-Vorpomme,203279
-3105,Freiburg im Breisgau,DEu,Baden-Württemberg,202455
-3106,Erfurt,DEu,Thüringen,201267
+3105,Freiburg im Breisgau,DEu,Baden-Wurttemberg,202455
+3106,Erfurt,DEu,Thuringen,201267
 3107,Kassel,DEu,Hessen,196211
-3108,Saarbrücken,DEu,Saarland,183836
+3108,Saarbrucken,DEu,Saarland,183836
 3109,Mainz,DEu,Rheinland-Pfalz,183134
 3110,Hamm,DEu,Nordrhein-Westfalen,181804
 3111,Herne,DEu,Nordrhein-Westfalen,175661
-3112,Mülheim an der Ruhr,DEu,Nordrhein-Westfalen,173895
+3112,Mulheim an der Ruhr,DEu,Nordrhein-Westfalen,173895
 3113,Solingen,DEu,Nordrhein-Westfalen,165583
-3114,Osnabrück,DEu,Niedersachsen,164539
+3114,Osnabruck,DEu,Niedersachsen,164539
 3115,Ludwigshafen am Rhein,DEu,Rheinland-Pfalz,163771
 3116,Leverkusen,DEu,Nordrhein-Westfalen,160841
 3117,Oldenburg,DEu,Niedersachsen,154125
 3118,Neuss,DEu,Nordrhein-Westfalen,149702
-3119,Heidelberg,DEu,Baden-Württemberg,139672
+3119,Heidelberg,DEu,Baden-Wurttemberg,139672
 3120,Darmstadt,DEu,Hessen,137776
 3121,Paderborn,DEu,Nordrhein-Westfalen,137647
 3122,Potsdam,DEu,Brandenburg,128983
-3123,Würzburg,DEu,Baijeri,127350
+3123,Wurzburg,DEu,Baijeri,127350
 3124,Regensburg,DEu,Baijeri,125236
 3125,Recklinghausen,DEu,Nordrhein-Westfalen,125022
-3126,Göttingen,DEu,Niedersachsen,124775
+3126,Gottingen,DEu,Niedersachsen,124775
 3127,Bremerhaven,DEu,Bremen,122735
 3128,Wolfsburg,DEu,Niedersachsen,121954
 3129,Bottrop,DEu,Nordrhein-Westfalen,121097
 3130,Remscheid,DEu,Nordrhein-Westfalen,120125
-3131,Heilbronn,DEu,Baden-Württemberg,119526
-3132,Pforzheim,DEu,Baden-Württemberg,117227
+3131,Heilbronn,DEu,Baden-Wurttemberg,119526
+3132,Pforzheim,DEu,Baden-Wurttemberg,117227
 3133,Offenbach am Main,DEu,Hessen,116627
-3134,ulm,DEu,Baden-Württemberg,116103
+3134,ulm,DEu,Baden-Wurttemberg,116103
 3135,Ingolstadt,DEu,Baijeri,114826
-3136,Gera,DEu,Thüringen,114718
+3136,Gera,DEu,Thuringen,114718
 3137,Salzgitter,DEu,Niedersachsen,112934
 3138,Cottbus,DEu,Brandenburg,110894
-3139,Reutlingen,DEu,Baden-Württemberg,110343
-3140,Fürth,DEu,Baijeri,109771
+3139,Reutlingen,DEu,Baden-Wurttemberg,110343
+3140,Furth,DEu,Baijeri,109771
 3141,Siegen,DEu,Nordrhein-Westfalen,109225
 3142,Koblenz,DEu,Rheinland-Pfalz,108003
 3143,Moers,DEu,Nordrhein-Westfalen,106837
@@ -3150,15 +3150,15 @@ id,name,country_code,district,population
 3149,Erlangen,DEu,Baijeri,100750
 3150,Kaiserslautern,DEu,Rheinland-Pfalz,100025
 3151,Trier,DEu,Rheinland-Pfalz,99891
-3152,Jena,DEu,Thüringen,99779
+3152,Jena,DEu,Thuringen,99779
 3153,Iserlohn,DEu,Nordrhein-Westfalen,99474
-3154,Gütersloh,DEu,Nordrhein-Westfalen,95028
+3154,Gutersloh,DEu,Nordrhein-Westfalen,95028
 3155,Marl,DEu,Nordrhein-Westfalen,93735
-3156,Lünen,DEu,Nordrhein-Westfalen,92044
-3157,Düren,DEu,Nordrhein-Westfalen,91092
+3156,Lunen,DEu,Nordrhein-Westfalen,92044
+3157,Duren,DEu,Nordrhein-Westfalen,91092
 3158,Ratingen,DEu,Nordrhein-Westfalen,90951
 3159,Velbert,DEu,Nordrhein-Westfalen,89881
-3160,Esslingen am Neckar,DEu,Baden-Württemberg,89667
+3160,Esslingen am Neckar,DEu,Baden-Wurttemberg,89667
 3161,Honiara,SLB,Honiara,50100
 3162,Lusaka,ZMB,Lusaka,1317000
 3163,Ndola,ZMB,Copperbelt,329200
@@ -3243,7 +3243,7 @@ id,name,country_code,district,population
 3242,Lahti,FIN,Paijat-Hame,96921
 3243,Paramaribo,SuR,Paramaribo,112000
 3244,Mbabane,SWZ,Hhohho,61000
-3245,Zürich,CHE,Zürich,336800
+3245,Zurich,CHE,Zurich,336800
 3246,Geneve,CHE,Geneve,173500
 3247,Basel,CHE,Basel-Stadt,166700
 3248,Bern,CHE,Bern,122700
@@ -3298,7 +3298,7 @@ id,name,country_code,district,population
 3297,Hualien,TWN,Hualien,108407
 3298,Nantou,TWN,Nantou,104723
 3299,Lungtan,TWN,Taipei,103088
-3300,Touliu,TWN,Yünlin,98900
+3300,Touliu,TWN,Yunlin,98900
 3301,Tsaotun,TWN,Nantou,96800
 3302,Kangshan,TWN,Kaohsiung,92200
 3303,Ilan,TWN,Ilan,92000
@@ -3387,7 +3387,7 @@ id,name,country_code,district,population
 3386,Iskenderun,TuR,Hatay,153022
 3387,Osmaniye,TuR,Osmaniye,146003
 3388,corum,TuR,corum,145495
-3389,Kütahya,TuR,Kütahya,144761
+3389,Kutahya,TuR,Kutahya,144761
 3390,Hatay (Antakya),TuR,Hatay,143982
 3391,Kirikkale,TuR,Kirikkale,142044
 3392,Adiyaman,TuR,Adiyaman,141529
@@ -3398,7 +3398,7 @@ id,name,country_code,district,population
 3397,Edirne,TuR,Edirne,123383
 3398,corlu,TuR,Tekirdag,123300
 3399,Isparta,TuR,Isparta,121911
-3400,Karabük,TuR,Karabük,118285
+3400,Karabuk,TuR,Karabuk,118285
 3401,Kilis,TuR,Kilis,118245
 3402,Alanya,TuR,Antalya,117300
 3403,Kiziltepe,TuR,Mardin,112000
@@ -3415,7 +3415,7 @@ id,name,country_code,district,population
 3414,Nazilli,TuR,Aydin,99900
 3415,Tokat,TuR,Tokat,99500
 3416,Kars,TuR,Kars,93000
-3417,Inegöl,TuR,Bursa,90500
+3417,Inegol,TuR,Bursa,90500
 3418,Bandirma,TuR,Balikesir,90200
 3419,Ashgabat,TKM,Ahal,540600
 3420,Charjew,TKM,Lebap,189200
@@ -3486,7 +3486,7 @@ id,name,country_code,district,population
 3485,Miskolc,HuN,Borsod-Abauj-Zemplen,172357
 3486,Szeged,HuN,Csongrad,158158
 3487,Pecs,HuN,Baranya,157332
-3488,Györ,HuN,Györ-Moson-Sopron,127119
+3488,Gyor,HuN,Gyor-Moson-Sopron,127119
 3489,Nyiregyhaza,HuN,Szabolcs-Szatmar-Ber,112419
 3490,Kecskemet,HuN,Bacs-Kiskun,105606
 3491,Szekesfehervar,HuN,Fejer,105119
@@ -3508,11 +3508,11 @@ id,name,country_code,district,population
 3507,Buhoro,uZB,Buhoro,237100
 3508,Karsi,uZB,Qashqadaryo,194100
 3509,Nukus,uZB,Karakalpakistan,194100
-3510,Kükon,uZB,Fargona,190100
+3510,Kukon,uZB,Fargona,190100
 3511,Fargona,uZB,Fargona,180500
 3512,Circik,uZB,Toskent,146400
 3513,Margilon,uZB,Fargona,140800
-3514,Ürgenc,uZB,Khorazm,138900
+3514,urgenc,uZB,Khorazm,138900
 3515,Angren,uZB,Toskent,128000
 3516,Cizah,uZB,Cizah,124800
 3517,Navoi,uZB,Navoi,116300
@@ -3771,7 +3771,7 @@ id,name,country_code,district,population
 3770,Hanoi,VNM,Hanoi,1410000
 3771,Haiphong,VNM,Haiphong,783133
 3772,Da Nang,VNM,Quang Nam-Da Nang,382674
-3773,Biên Hoa,VNM,Dong Nai,282095
+3773,Bien Hoa,VNM,Dong Nai,282095
 3774,Nha Trang,VNM,Khanh Hoa,221331
 3775,Hue,VNM,Thua Thien-Hue,219149
 3776,Can Tho,VNM,Can Tho,215587
@@ -3783,7 +3783,7 @@ id,name,country_code,district,population
 3782,Long Xuyen,VNM,An Giang,132681
 3783,Thai Nguyen,VNM,Bac Thai,127643
 3784,Hong Gai,VNM,Quang Ninh,127484
-3785,Phan Thiêt,VNM,Binh Thuan,114236
+3785,Phan Thiet,VNM,Binh Thuan,114236
 3786,Cam Ranh,VNM,Khanh Hoa,114041
 3787,Vinh,VNM,Nghe An,112455
 3788,My Tho,VNM,Tien Giang,108404
