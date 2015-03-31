@@ -108,7 +108,7 @@ BLZ,Maya Languages,F,9.6
 BLZ,Spanish,F,31.6
 BMU,English,T,100
 BOL,Aimará,T,3.2
-BOL,Guaraní,F,0.1
+BOL,GuaranI,F,0.1
 BOL,Ketšua,T,8.1
 BOL,Spanish,T,87.7
 BRA,German,F,0.5
@@ -351,9 +351,9 @@ GRD,Creole English,F,100
 GRL,Danish,T,12.5
 GRL,Greenlandic,T,87.5
 GTM,Cakchiquel,F,8.9
-GTM,Kekchí,F,4.9
+GTM,KekchI,F,4.9
 GTM,Mam,F,2.7
-GTM,Quiché,F,10.1
+GTM,Quiche,F,10.1
 GTM,Spanish,T,64.7
 GUF,Creole French,F,94.3
 GUF,Indian Languages,F,1.9
@@ -546,7 +546,7 @@ MDV,Dhivehi,T,100
 MDV,English,F,0
 MEX,Mixtec,F,0.6
 MEX,Náhuatl,F,1.8
-MEX,Otomí,F,0.4
+MEX,OtomI,F,0.4
 MEX,Spanish,T,92.1
 MEX,Yucatec,F,1.1
 MEX,Zapotec,F,0.6
@@ -621,7 +621,7 @@ MYS,Iban,F,2.8
 MYS,Malay,T,58.4
 MYS,Tamil,F,3.9
 MYT,French,T,20.3
-MYT,Mahoré,F,41.9
+MYT,Mahore,F,41.9
 MYT,Malagasy,F,16.1
 NAM,Afrikaans,F,9.5
 NAM,Caprivi,F,4.7
@@ -693,7 +693,7 @@ PAN,Arabic,F,0.6
 PAN,Creole English,F,14
 PAN,Cuna,F,2
 PAN,Embera,F,0.6
-PAN,Guaymí,F,5.3
+PAN,GuaymI,F,5.3
 PAN,Spanish,T,76.8
 PCN,Pitcairnese,F,0
 PER,Aimará,T,2.3
@@ -725,7 +725,7 @@ PRK,Chinese,F,0.1
 PRK,Korean,T,99.9
 PRT,Portuguese,T,99
 PRY,German,F,0.9
-PRY,Guaraní,T,40.1
+PRY,GuaranI,T,40.1
 PRY,Portuguese,F,3.2
 PRY,Spanish,T,55.1
 PSE,Arabic,F,95.9
@@ -837,7 +837,7 @@ TCD,Tandjile,F,6.5
 TGO,Ane,F,5.7
 TGO,Ewe,T,23.2
 TGO,Gurma,F,3.4
-TGO,Kabyé,T,13.8
+TGO,Kabye,T,13.8
 TGO,Kotokoli,F,5.7
 TGO,Moba,F,5.4
 TGO,Naudemba,F,4.1
