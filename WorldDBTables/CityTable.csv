@@ -77,7 +77,7 @@ id,name,country_code,district,population
 76,La Plata,ARG,Buenos Aires,521936
 77,Mar del Plata,ARG,Buenos Aires,512880
 78,San Miguel de Tucuman,ARG,Tucuman,470809
-79,Lanús,ARG,Buenos Aires,469735
+79,Lanus,ARG,Buenos Aires,469735
 80,Merlo,ARG,Buenos Aires,463846
 81,General San MartIn,ARG,Buenos Aires,422542
 82,Salta,ARG,Salta,367550
@@ -125,7 +125,7 @@ id,name,country_code,district,population
 124,San Rafael,ARG,Mendoza,94651
 125,Tandil,ARG,Buenos Aires,91101
 126,Yerevan,ARM,Yerevan,1248700
-127,Gjumri,ARM,Širak,211700
+127,Gjumri,ARM,Sirak,211700
 128,Vanadzor,ARM,Lori,172700
 129,Oranjestad,ABW,N/A,29034
 130,Sydney,AUS,New South Wales,3276207
@@ -204,7 +204,7 @@ id,name,country_code,district,population
 203,Zenica,BIH,Federaatio,96027
 204,Gaborone,BWA,Gaborone,213017
 205,Francistown,BWA,Francistown,101805
-206,São Paulo,BRA,São Paulo,9968485
+206,Sao Paulo,BRA,Sao Paulo,9968485
 207,Rio de Janeiro,BRA,Rio de Janeiro,5598953
 208,Salvador,BRA,Bahia,2302832
 209,Belo Horizonte,BRA,Minas Gerais,2139125
@@ -215,66 +215,66 @@ id,name,country_code,district,population
 214,Porto Alegre,BRA,Rio Grande do Sul,1314032
 215,Manaus,BRA,Amazonas,1255049
 216,Belem,BRA,Para,1186926
-217,Guarulhos,BRA,São Paulo,1095874
-218,Goiânia,BRA,Goias,1056330
-219,Campinas,BRA,São Paulo,950043
-220,São Goncalo,BRA,Rio de Janeiro,869254
+217,Guarulhos,BRA,Sao Paulo,1095874
+218,Goiania,BRA,Goias,1056330
+219,Campinas,BRA,Sao Paulo,950043
+220,Sao Goncalo,BRA,Rio de Janeiro,869254
 221,Nova Iguacu,BRA,Rio de Janeiro,862225
-222,São LuIs,BRA,Maranhão,837588
+222,Sao LuIs,BRA,Maranhao,837588
 223,Maceio,BRA,Alagoas,786288
 224,Duque de Caxias,BRA,Rio de Janeiro,746758
-225,São Bernardo do Campo,BRA,São Paulo,723132
+225,Sao Bernardo do Campo,BRA,Sao Paulo,723132
 226,Teresina,BRA,PiauI,691942
 227,Natal,BRA,Rio Grande do Norte,688955
-228,Osasco,BRA,São Paulo,659604
+228,Osasco,BRA,Sao Paulo,659604
 229,Campo Grande,BRA,Mato Grosso do Sul,649593
-230,Santo Andre,BRA,São Paulo,630073
-231,João Pessoa,BRA,ParaIba,584029
-232,Jaboatão dos Guararapes,BRA,Pernambuco,558680
+230,Santo Andre,BRA,Sao Paulo,630073
+231,Joao Pessoa,BRA,ParaIba,584029
+232,Jaboatao dos Guararapes,BRA,Pernambuco,558680
 233,Contagem,BRA,Minas Gerais,520801
-234,São Jose dos Campos,BRA,São Paulo,515553
-235,Uberlândia,BRA,Minas Gerais,487222
+234,Sao Jose dos Campos,BRA,Sao Paulo,515553
+235,Uberlandia,BRA,Minas Gerais,487222
 236,Feira de Santana,BRA,Bahia,479992
-237,Ribeirão Preto,BRA,São Paulo,473276
-238,Sorocaba,BRA,São Paulo,466823
+237,Ribeirao Preto,BRA,Sao Paulo,473276
+238,Sorocaba,BRA,Sao Paulo,466823
 239,Niteroi,BRA,Rio de Janeiro,459884
 240,Cuiaba,BRA,Mato Grosso,453813
 241,Juiz de Fora,BRA,Minas Gerais,450288
 242,Aracaju,BRA,Sergipe,445555
-243,São João de Meriti,BRA,Rio de Janeiro,440052
+243,Sao Joao de Meriti,BRA,Rio de Janeiro,440052
 244,Londrina,BRA,Parana,432257
 245,Joinville,BRA,Santa Catarina,428011
 246,Belford Roxo,BRA,Rio de Janeiro,425194
-247,Santos,BRA,São Paulo,408748
+247,Santos,BRA,Sao Paulo,408748
 248,Ananindeua,BRA,Para,400940
 249,Campos dos Goytacazes,BRA,Rio de Janeiro,398418
-250,Maua,BRA,São Paulo,375055
-251,CarapicuIba,BRA,São Paulo,357552
+250,Maua,BRA,Sao Paulo,375055
+251,CarapicuIba,BRA,Sao Paulo,357552
 252,Olinda,BRA,Pernambuco,354732
 253,Campina Grande,BRA,ParaIba,352497
-254,São Jose do Rio Preto,BRA,São Paulo,351944
+254,Sao Jose do Rio Preto,BRA,Sao Paulo,351944
 255,Caxias do Sul,BRA,Rio Grande do Sul,349581
-256,Moji das Cruzes,BRA,São Paulo,339194
-257,Diadema,BRA,São Paulo,335078
-258,Aparecida de Goiânia,BRA,Goias,324662
-259,Piracicaba,BRA,São Paulo,319104
+256,Moji das Cruzes,BRA,Sao Paulo,339194
+257,Diadema,BRA,Sao Paulo,335078
+258,Aparecida de Goiania,BRA,Goias,324662
+259,Piracicaba,BRA,Sao Paulo,319104
 260,Cariacica,BRA,EspIrito Santo,319033
 261,Vila Velha,BRA,EspIrito Santo,318758
 262,Pelotas,BRA,Rio Grande do Sul,315415
-263,Bauru,BRA,São Paulo,313670
+263,Bauru,BRA,Sao Paulo,313670
 264,Porto Velho,BRA,Rondônia,309750
 265,Serra,BRA,EspIrito Santo,302666
 266,Betim,BRA,Minas Gerais,302108
-267,JundIaI,BRA,São Paulo,296127
+267,JundIaI,BRA,Sao Paulo,296127
 268,Canoas,BRA,Rio Grande do Sul,294125
-269,Franca,BRA,São Paulo,290139
-270,São Vicente,BRA,São Paulo,286848
+269,Franca,BRA,Sao Paulo,290139
+270,Sao Vicente,BRA,Sao Paulo,286848
 271,Maringa,BRA,Parana,286461
 272,Montes Claros,BRA,Minas Gerais,286058
 273,Anapolis,BRA,Goias,282197
 274,Florianopolis,BRA,Santa Catarina,281928
 275,Petropolis,BRA,Rio de Janeiro,279183
-276,Itaquaquecetuba,BRA,São Paulo,270874
+276,Itaquaquecetuba,BRA,Sao Paulo,270874
 277,Vitoria,BRA,EspIrito Santo,270626
 278,Ponta Grossa,BRA,Parana,268013
 279,Rio Branco,BRA,Acre,259537
@@ -284,7 +284,7 @@ id,name,country_code,district,population
 283,Vitoria da Conquista,BRA,Bahia,253587
 284,Uberaba,BRA,Minas Gerais,249225
 285,Paulista,BRA,Pernambuco,248473
-286,Limeira,BRA,São Paulo,245497
+286,Limeira,BRA,Sao Paulo,245497
 287,Blumenau,BRA,Santa Catarina,244379
 288,Caruaru,BRA,Pernambuco,244247
 289,Santarem,BRA,Para,241771
@@ -293,30 +293,30 @@ id,name,country_code,district,population
 292,Caucaia,BRA,Ceara,238738
 293,Santa Maria,BRA,Rio Grande do Sul,238473
 294,Cascavel,BRA,Parana,237510
-295,Guaruja,BRA,São Paulo,237206
-296,Ribeirão das Neves,BRA,Minas Gerais,232685
+295,Guaruja,BRA,Sao Paulo,237206
+296,Ribeirao das Neves,BRA,Minas Gerais,232685
 297,Governador Valadares,BRA,Minas Gerais,231724
-298,Taubate,BRA,São Paulo,229130
-299,Imperatriz,BRA,Maranhão,224564
+298,Taubate,BRA,Sao Paulo,229130
+299,Imperatriz,BRA,Maranhao,224564
 300,GravataI,BRA,Rio Grande do Sul,223011
-301,Embu,BRA,São Paulo,222223
+301,Embu,BRA,Sao Paulo,222223
 302,Mossoro,BRA,Rio Grande do Norte,214901
 303,Varzea Grande,BRA,Mato Grosso,214435
 304,Petrolina,BRA,Pernambuco,210540
-305,Barueri,BRA,São Paulo,208426
-306,Viamão,BRA,Rio Grande do Sul,207557
+305,Barueri,BRA,Sao Paulo,208426
+306,Viamao,BRA,Rio Grande do Sul,207557
 307,Ipatinga,BRA,Minas Gerais,206338
 308,Juazeiro,BRA,Bahia,201073
 309,Juazeiro do Norte,BRA,Ceara,199636
-310,Taboão da Serra,BRA,São Paulo,197550
-311,São Jose dos Pinhais,BRA,Parana,196884
+310,Taboao da Serra,BRA,Sao Paulo,197550
+311,Sao Jose dos Pinhais,BRA,Parana,196884
 312,Mage,BRA,Rio de Janeiro,196147
-313,Suzano,BRA,São Paulo,195434
-314,São Leopoldo,BRA,Rio Grande do Sul,189258
-315,MarIlia,BRA,São Paulo,188691
-316,São Carlos,BRA,São Paulo,187122
-317,Sumare,BRA,São Paulo,186205
-318,Presidente Prudente,BRA,São Paulo,185340
+313,Suzano,BRA,Sao Paulo,195434
+314,Sao Leopoldo,BRA,Rio Grande do Sul,189258
+315,MarIlia,BRA,Sao Paulo,188691
+316,Sao Carlos,BRA,Sao Paulo,187122
+317,Sumare,BRA,Sao Paulo,186205
+318,Presidente Prudente,BRA,Sao Paulo,185340
 319,Divinopolis,BRA,Minas Gerais,185047
 320,Sete Lagoas,BRA,Minas Gerais,182984
 321,Rio Grande,BRA,Rio Grande do Sul,182222
@@ -324,43 +324,43 @@ id,name,country_code,district,population
 323,Jequie,BRA,Bahia,179128
 324,Arapiraca,BRA,Alagoas,178988
 325,Colombo,BRA,Parana,177764
-326,Americana,BRA,São Paulo,177409
+326,Americana,BRA,Sao Paulo,177409
 327,Alvorada,BRA,Rio Grande do Sul,175574
-328,Araraquara,BRA,São Paulo,174381
+328,Araraquara,BRA,Sao Paulo,174381
 329,ItaboraI,BRA,Rio de Janeiro,173977
-330,Santa Barbara dOeste,BRA,São Paulo,171657
+330,Santa Barbara dOeste,BRA,Sao Paulo,171657
 331,Nova Friburgo,BRA,Rio de Janeiro,170697
-332,JacareI,BRA,São Paulo,170356
-333,Aracatuba,BRA,São Paulo,169303
+332,JacareI,BRA,Sao Paulo,170356
+333,Aracatuba,BRA,Sao Paulo,169303
 334,Barra Mansa,BRA,Rio de Janeiro,168953
-335,Praia Grande,BRA,São Paulo,168434
+335,Praia Grande,BRA,Sao Paulo,168434
 336,Maraba,BRA,Para,167795
-337,Criciúma,BRA,Santa Catarina,167661
+337,Criciuma,BRA,Santa Catarina,167661
 338,Boa Vista,BRA,Roraima,167185
 339,Passo Fundo,BRA,Rio Grande do Sul,166343
 340,Dourados,BRA,Mato Grosso do Sul,164716
 341,Santa Luzia,BRA,Minas Gerais,164704
-342,Rio Claro,BRA,São Paulo,163551
-343,Maracanaú,BRA,Ceara,162022
+342,Rio Claro,BRA,Sao Paulo,163551
+343,Maracanau,BRA,Ceara,162022
 344,Guarapuava,BRA,Parana,160510
 345,Rondonopolis,BRA,Mato Grosso,155115
-346,São Jose,BRA,Santa Catarina,155105
+346,Sao Jose,BRA,Santa Catarina,155105
 347,Cachoeiro de Itapemirim,BRA,EspIrito Santo,155024
 348,Nilopolis,BRA,Rio de Janeiro,153383
-349,Itapevi,BRA,São Paulo,150664
+349,Itapevi,BRA,Sao Paulo,150664
 350,Cabo de Santo Agostinho,BRA,Pernambuco,149964
 351,Camacari,BRA,Bahia,149146
 352,Sobral,BRA,Ceara,146005
 353,ItajaI,BRA,Santa Catarina,145197
 354,Chapeco,BRA,Santa Catarina,144158
-355,Cotia,BRA,São Paulo,140042
+355,Cotia,BRA,Sao Paulo,140042
 356,Lages,BRA,Santa Catarina,139570
-357,Ferraz de Vasconcelos,BRA,São Paulo,139283
-358,Indaiatuba,BRA,São Paulo,135968
-359,Hortolândia,BRA,São Paulo,135755
-360,Caxias,BRA,Maranhão,133980
-361,São Caetano do Sul,BRA,São Paulo,133321
-362,Itu,BRA,São Paulo,132736
+357,Ferraz de Vasconcelos,BRA,Sao Paulo,139283
+358,Indaiatuba,BRA,Sao Paulo,135968
+359,Hortolandia,BRA,Sao Paulo,135755
+360,Caxias,BRA,Maranhao,133980
+361,Sao Caetano do Sul,BRA,Sao Paulo,133321
+362,Itu,BRA,Sao Paulo,132736
 363,Nossa Senhora do Socorro,BRA,Sergipe,131351
 364,ParnaIba,BRA,PiauI,129756
 365,Pocos de Caldas,BRA,Minas Gerais,129683
@@ -368,83 +368,83 @@ id,name,country_code,district,population
 367,Barreiras,BRA,Bahia,127801
 368,Castanhal,BRA,Para,127634
 369,Alagoinhas,BRA,Bahia,126820
-370,Itapecerica da Serra,BRA,São Paulo,126672
+370,Itapecerica da Serra,BRA,Sao Paulo,126672
 371,Uruguaiana,BRA,Rio Grande do Sul,126305
 372,Paranagua,BRA,Parana,126076
 373,Ibirite,BRA,Minas Gerais,125982
-374,Timon,BRA,Maranhão,125812
-375,Luziânia,BRA,Goias,125597
+374,Timon,BRA,Maranhao,125812
+375,Luziania,BRA,Goias,125597
 376,Macae,BRA,Rio de Janeiro,125597
 377,Teofilo Otoni,BRA,Minas Gerais,124489
-378,Moji-Guacu,BRA,São Paulo,123782
+378,Moji-Guacu,BRA,Sao Paulo,123782
 379,Palmas,BRA,Tocantins,121919
-380,Pindamonhangaba,BRA,São Paulo,121904
-381,Francisco Morato,BRA,São Paulo,121197
+380,Pindamonhangaba,BRA,Sao Paulo,121904
+381,Francisco Morato,BRA,Sao Paulo,121197
 382,Bage,BRA,Rio Grande do Sul,120793
 383,Sapucaia do Sul,BRA,Rio Grande do Sul,120217
 384,Cabo Frio,BRA,Rio de Janeiro,119503
-385,Itapetininga,BRA,São Paulo,119391
+385,Itapetininga,BRA,Sao Paulo,119391
 386,Patos de Minas,BRA,Minas Gerais,119262
 387,Camaragibe,BRA,Pernambuco,118968
-388,Braganca Paulista,BRA,São Paulo,116929
+388,Braganca Paulista,BRA,Sao Paulo,116929
 389,Queimados,BRA,Rio de Janeiro,115020
 390,AraguaIna,BRA,Tocantins,114948
 391,Garanhuns,BRA,Pernambuco,114603
-392,Vitoria de Santo Antão,BRA,Pernambuco,113595
+392,Vitoria de Santo Antao,BRA,Pernambuco,113595
 393,Santa Rita,BRA,ParaIba,113135
 394,Barbacena,BRA,Minas Gerais,113079
 395,Abaetetuba,BRA,Para,111258
-396,Jaú,BRA,São Paulo,109965
+396,Jau,BRA,Sao Paulo,109965
 397,Lauro de Freitas,BRA,Bahia,109236
-398,Franco da Rocha,BRA,São Paulo,108964
+398,Franco da Rocha,BRA,Sao Paulo,108964
 399,Teixeira de Freitas,BRA,Bahia,108441
 400,Varginha,BRA,Minas Gerais,108314
-401,Ribeirão Pires,BRA,São Paulo,108121
+401,Ribeirao Pires,BRA,Sao Paulo,108121
 402,Sabara,BRA,Minas Gerais,107781
-403,Catanduva,BRA,São Paulo,107761
+403,Catanduva,BRA,Sao Paulo,107761
 404,Rio Verde,BRA,Goias,107755
-405,Botucatu,BRA,São Paulo,107663
+405,Botucatu,BRA,Sao Paulo,107663
 406,Colatina,BRA,EspIrito Santo,107354
 407,Santa Cruz do Sul,BRA,Rio Grande do Sul,106734
 408,Linhares,BRA,EspIrito Santo,106278
 409,Apucarana,BRA,Parana,105114
-410,Barretos,BRA,São Paulo,104156
-411,Guaratingueta,BRA,São Paulo,103433
+410,Barretos,BRA,Sao Paulo,104156
+411,Guaratingueta,BRA,Sao Paulo,103433
 412,Cachoeirinha,BRA,Rio Grande do Sul,103240
-413,Codo,BRA,Maranhão,103153
+413,Codo,BRA,Maranhao,103153
 414,Jaragua do Sul,BRA,Santa Catarina,102580
-415,Cubatão,BRA,São Paulo,102372
+415,Cubatao,BRA,Sao Paulo,102372
 416,Itabira,BRA,Minas Gerais,102217
 417,Itaituba,BRA,Para,101320
-418,Araras,BRA,São Paulo,101046
+418,Araras,BRA,Sao Paulo,101046
 419,Resende,BRA,Rio de Janeiro,100627
-420,Atibaia,BRA,São Paulo,100356
+420,Atibaia,BRA,Sao Paulo,100356
 421,Pouso Alegre,BRA,Minas Gerais,100028
 422,Toledo,BRA,Parana,99387
 423,Crato,BRA,Ceara,98965
 424,Passos,BRA,Minas Gerais,98570
 425,Araguari,BRA,Minas Gerais,98399
-426,São Jose de Ribamar,BRA,Maranhão,98318
+426,Sao Jose de Ribamar,BRA,Maranhao,98318
 427,Pinhais,BRA,Parana,98198
-428,Sertãozinho,BRA,São Paulo,98140
+428,Sertaozinho,BRA,Sao Paulo,98140
 429,Conselheiro Lafaiete,BRA,Minas Gerais,97507
 430,Paulo Afonso,BRA,Bahia,97291
 431,Angra dos Reis,BRA,Rio de Janeiro,96864
 432,Eunapolis,BRA,Bahia,96610
-433,Salto,BRA,São Paulo,96348
-434,Ourinhos,BRA,São Paulo,96291
+433,Salto,BRA,Sao Paulo,96348
+434,Ourinhos,BRA,Sao Paulo,96291
 435,Parnamirim,BRA,Rio Grande do Norte,96210
 436,Jacobina,BRA,Bahia,96131
 437,Coronel Fabriciano,BRA,Minas Gerais,95933
-438,Birigui,BRA,São Paulo,94685
-439,TatuI,BRA,São Paulo,93897
+438,Birigui,BRA,Sao Paulo,94685
+439,TatuI,BRA,Sao Paulo,93897
 440,Ji-Parana,BRA,Rondônia,93346
-441,Bacabal,BRA,Maranhão,93121
+441,Bacabal,BRA,Maranhao,93121
 442,Cameta,BRA,Para,92779
 443,GuaIba,BRA,Rio Grande do Sul,92224
-444,São Lourenco da Mata,BRA,Pernambuco,91999
+444,Sao Lourenco da Mata,BRA,Pernambuco,91999
 445,Santana do Livramento,BRA,Rio Grande do Sul,91779
-446,Votorantim,BRA,São Paulo,91777
+446,Votorantim,BRA,Sao Paulo,91777
 447,Campo Largo,BRA,Parana,91203
 448,Patos,BRA,ParaIba,90519
 449,Ituiutaba,BRA,Minas Gerais,90507
@@ -452,7 +452,7 @@ id,name,country_code,district,population
 451,Palhoca,BRA,Santa Catarina,89465
 452,Barra do PiraI,BRA,Rio de Janeiro,89388
 453,Bento Goncalves,BRA,Rio Grande do Sul,89254
-454,Poa,BRA,São Paulo,89236
+454,Poa,BRA,Sao Paulo,89236
 455,aguas Lindas de Goias,BRA,Goias,89200
 456,London,GBR,England,7285000
 457,Birmingham,GBR,England,1013000
@@ -546,7 +546,7 @@ id,name,country_code,district,population
 545,Pleven,BGR,Lovec,121952
 546,Sliven,BGR,Burgas,105530
 547,Dobric,BGR,Varna,100399
-548,Šumen,BGR,Varna,94686
+548,Sumen,BGR,Varna,94686
 549,Ouagadougou,BFA,Kadiogo,824000
 550,Bobo-Dioulasso,BFA,Houet,300000
 551,Koudougou,BFA,Boulkiemde,105000
@@ -906,7 +906,7 @@ id,name,country_code,district,population
 905,Tbilisi,GEO,Tbilisi,1235200
 906,Kutaisi,GEO,Imereti,240900
 907,Rustavi,GEO,Kvemo Kartli,155400
-908,Batumi,GEO,Adzaria [Atšara],137700
+908,Batumi,GEO,Adzaria [AtSara],137700
 909,Sohumi,GEO,Abhasia [Aphazeti],111700
 910,Accra,GHA,Greater Accra,1070000
 911,Kumasi,GHA,Ashanti,385192
@@ -1792,8 +1792,8 @@ id,name,country_code,district,population
 1791,Flying Fish Cove,CXR,N/A,700
 1792,Beograd,YUG,Central Serbia,1204000
 1793,Novi Sad,YUG,Vojvodina,179626
-1794,Niš,YUG,Central Serbia,175391
-1795,Priština,YUG,Kosovo and Metohija,155496
+1794,NiS,YUG,Central Serbia,175391
+1795,PriStina,YUG,Kosovo and Metohija,155496
 1796,Kragujevac,YUG,Central Serbia,147305
 1797,Podgorica,YUG,Montenegro,135000
 1798,Subotica,YUG,Vojvodina,100386
@@ -1857,7 +1857,7 @@ id,name,country_code,district,population
 1856,Sudbury,CAN,Ontario,92686
 1857,Kelowna,CAN,British Colombia,89442
 1858,Barrie,CAN,Ontario,89269
-1859,Praia,CPV,São Tiago,94800
+1859,Praia,CPV,Sao Tiago,94800
 1860,Almaty,KAZ,Almaty Qalasy,1129400
 1861,Qaraghandy,KAZ,Qaraghandy,436900
 1862,Shymkent,KAZ,South Kazakstan,360100
@@ -1915,7 +1915,7 @@ id,name,country_code,district,population
 1914,Guiyang,CHN,Guizhou,1465200
 1915,Ningbo,CHN,Zhejiang,1371200
 1916,Hefei,CHN,Anhui,1369100
-1917,Urumtši [Ürümqi],CHN,Xinxiang,1310100
+1917,UrumtSi [Ürümqi],CHN,Xinxiang,1310100
 1918,Anshan,CHN,Liaoning,1200000
 1919,Fushun,CHN,Liaoning,1200000
 1920,Nanning,CHN,Guangxi,1161800
@@ -2260,7 +2260,7 @@ id,name,country_code,district,population
 2259,MedellIn,COL,Antioquia,1861265
 2260,Barranquilla,COL,Atlantico,1223260
 2261,Cartagena,COL,BolIvar,805757
-2262,Cúcuta,COL,Norte de Santander,606932
+2262,Cucuta,COL,Norte de Santander,606932
 2263,Bucaramanga,COL,Santander,515555
 2264,Ibague,COL,Tolima,393664
 2265,Pereira,COL,Risaralda,381725
@@ -2448,10 +2448,10 @@ id,name,country_code,district,population
 2447,Vilnius,LTU,Vilna,577969
 2448,Kaunas,LTU,Kaunas,412639
 2449,Klaipeda,LTU,Klaipeda,202451
-2450,Šiauliai,LTU,Šiauliai,146563
+2450,Siauliai,LTU,Siauliai,146563
 2451,Panevezys,LTU,Panevezys,133695
 2452,Luxembourg [Luxemburg/Letzebuerg],LUX,Luxembourg,80700
-2453,El-Aaiún,ESH,El-Aaiún,169000
+2453,El-Aaiun,ESH,El-Aaiun,169000
 2454,Macao,MAC,Macau,437500
 2455,Antananarivo,MDG,Antananarivo,675669
 2456,Toamasina,MDG,Toamasina,127441
@@ -2494,7 +2494,7 @@ id,name,country_code,district,population
 2493,Kenitra,MAR,Gharb-Chrarda-Beni H,292600
 2494,Tetouan,MAR,Tanger-Tetouan,277516
 2495,Safi,MAR,Doukkala-Abda,262300
-2496,Agadir,MAR,Souss Massa-Draâ,155244
+2496,Agadir,MAR,Souss Massa-Draa,155244
 2497,Mohammedia,MAR,Casablanca,154706
 2498,Khouribga,MAR,Chaouia-Ouardigha,152090
 2499,Beni-Mellal,MAR,Tadla-Azilal,140212
@@ -2508,7 +2508,7 @@ id,name,country_code,district,population
 2507,Dalap-Uliga-Darrit,MHL,Majuro,28000
 2508,Fort-de-France,MTQ,Fort-de-France,94050
 2509,Nouakchott,MRT,Nouakchott,667300
-2510,Nouâdhibou,MRT,Dakhlet Nouâdhibou,97600
+2510,Nouadhibou,MRT,Dakhlet Nouadhibou,97600
 2511,Port-Louis,MUS,Port-Louis,138200
 2512,Beau Bassin-Rose Hill,MUS,Plaines Wilhelms,100616
 2513,Vacoas-Phoenix,MUS,Plaines Wilhelms,98464
@@ -2633,13 +2633,13 @@ id,name,country_code,district,population
 2632,Lagos de Moreno,MEX,Jalisco,127949
 2633,Piedras Negras,MEX,Coahuila de Zaragoza,127898
 2634,Altamira,MEX,Tamaulipas,127490
-2635,Túxpam,MEX,Veracruz,126475
+2635,Tuxpam,MEX,Veracruz,126475
 2636,San Pedro Garza GarcIa,MEX,Nuevo Leon,126147
 2637,Cuauhtemoc,MEX,Chihuahua,124279
 2638,Manzanillo,MEX,Colima,124014
 2639,Iguala de la Independencia,MEX,Guerrero,123883
 2640,Zacatecas,MEX,Zacatecas,123700
-2641,Tlajomulco de Zúniga,MEX,Jalisco,123220
+2641,Tlajomulco de Zuniga,MEX,Jalisco,123220
 2642,Tulancingo de Bravo,MEX,Hidalgo,121946
 2643,Zinacantepec,MEX,Mexico,121715
 2644,San MartIn Texmelucan,MEX,Puebla,121093
@@ -3031,18 +3031,18 @@ id,name,country_code,district,population
 3030,Pitesti,ROM,Arges,187170
 3031,Arad,ROM,Arad,184408
 3032,Sibiu,ROM,Sibiu,169611
-3033,Târgu Mures,ROM,Mures,165153
+3033,Targu Mures,ROM,Mures,165153
 3034,Baia Mare,ROM,Maramures,149665
 3035,Buzau,ROM,Buzau,148372
 3036,Satu Mare,ROM,Satu Mare,130059
 3037,Botosani,ROM,Botosani,128730
 3038,Piatra Neamt,ROM,Neamt,125070
-3039,Râmnicu Vâlcea,ROM,Vâlcea,119741
+3039,Ramnicu Valcea,ROM,Valcea,119741
 3040,Suceava,ROM,Suceava,118549
 3041,Drobeta-Turnu Severin,ROM,Mehedinti,117865
-3042,Târgoviste,ROM,Dâmbovita,98980
+3042,Targoviste,ROM,Dambovita,98980
 3043,Focsani,ROM,Vrancea,98979
-3044,Târgu Jiu,ROM,Gorj,98524
+3044,Targu Jiu,ROM,Gorj,98524
 3045,Tulcea,ROM,Tulcea,96278
 3046,Resita,ROM,Caras-Severin,93976
 3047,Kigali,RWA,Kigali,286000
@@ -3170,7 +3170,7 @@ id,name,country_code,district,population
 3169,Apia,WSM,Upolu,35900
 3170,Serravalle,SMR,Serravalle/Dogano,4802
 3171,San Marino,SMR,San Marino,2294
-3172,São Tome,STP,Aqua Grande,49541
+3172,Sao Tome,STP,Aqua Grande,49541
 3173,Riyadh,SAU,Riyadh,3324000
 3174,Jedda,SAU,Mekka,2046300
 3175,Mekka,SAU,Mekka,965700
@@ -3208,8 +3208,8 @@ id,name,country_code,district,population
 3207,Freetown,SLE,Western,850000
 3208,Singapore,SGP,N/A,4017733
 3209,Bratislava,SVK,Bratislava,448292
-3210,Košice,SVK,Východne Slovensko,241874
-3211,Prešov,SVK,Východne Slovensko,93977
+3210,KoSice,SVK,Východne Slovensko,241874
+3211,PreSov,SVK,Východne Slovensko,93977
 3212,Ljubljana,SVN,Osrednjeslovenska,270986
 3213,Maribor,SVN,Podravska,115532
 3214,Mogadishu,SOM,Banaadir,997000
@@ -3345,7 +3345,7 @@ id,name,country_code,district,population
 3344,Liberec,CZE,SevernI Cechy,99155
 3345,Ceske Budejovice,CZE,JiznI Cechy,98186
 3346,Hradec Kralove,CZE,VýchodnI Cechy,98080
-3347,ÚstI nad Labem,CZE,SevernI Cechy,95491
+3347,ustI nad Labem,CZE,SevernI Cechy,95491
 3348,Pardubice,CZE,VýchodnI Cechy,91309
 3349,Tunis,TUN,Tunis,690600
 3350,Sfax,TUN,Sfax,257800
@@ -3376,7 +3376,7 @@ id,name,country_code,district,population
 3375,Erzurum,TUR,Erzurum,246535
 3376,Tarsus,TUR,Adana,246206
 3377,Kahramanmaras,TUR,Kahramanmaras,245772
-3378,Elâzig,TUR,Elâzig,228815
+3378,Elazig,TUR,Elazig,228815
 3379,Van,TUR,Van,219319
 3380,Sultanbeyli,TUR,Istanbul,211068
 3381,Izmit (Kocaeli),TUR,Kocaeli,210068
@@ -3441,49 +3441,49 @@ id,name,country_code,district,population
 3440,Sevastopol,UKR,Krim,348000
 3441,Simferopol,UKR,Krim,339000
 3442,Pultava [Poltava],UKR,Pultava,313000
-3443,Tšernigiv,UKR,Tšernigiv,313000
-3444,Tšerkasy,UKR,Tšerkasy,309000
+3443,TSernigiv,UKR,TSernigiv,313000
+3444,TSerkasy,UKR,TSerkasy,309000
 3445,Gorlivka,UKR,Donetsk,299000
 3446,Zytomyr,UKR,Zytomyr,297000
 3447,Sumy,UKR,Sumy,294000
 3448,Dniprodzerzynsk,UKR,Dnipropetrovsk,270000
 3449,Kirovograd,UKR,Kirovograd,265000
 3450,Hmelnytskyi,UKR,Hmelnytskyi,262000
-3451,Tšernivtsi,UKR,Tšernivtsi,259000
+3451,TSernivtsi,UKR,TSernivtsi,259000
 3452,Rivne,UKR,Rivne,245000
-3453,Krementšuk,UKR,Pultava,239000
+3453,KrementSuk,UKR,Pultava,239000
 3454,Ivano-Frankivsk,UKR,Ivano-Frankivsk,237000
 3455,Ternopil,UKR,Ternopil,236000
 3456,Lutsk,UKR,Volynia,217000
 3457,Bila Tserkva,UKR,Kiova,215000
 3458,Kramatorsk,UKR,Donetsk,186000
 3459,Melitopol,UKR,Zaporizzja,169000
-3460,Kertš,UKR,Krim,162000
+3460,KertS,UKR,Krim,162000
 3461,Nikopol,UKR,Dnipropetrovsk,149000
 3462,Berdjansk,UKR,Zaporizzja,130000
 3463,Pavlograd,UKR,Dnipropetrovsk,127000
 3464,Sjeverodonetsk,UKR,Lugansk,127000
 3465,Slovjansk,UKR,Donetsk,127000
 3466,Uzgorod,UKR,Taka-Karpatia,127000
-3467,Altševsk,UKR,Lugansk,119000
-3468,Lysytšansk,UKR,Lugansk,116000
+3467,AltSevsk,UKR,Lugansk,119000
+3468,LysytSansk,UKR,Lugansk,116000
 3469,Jevpatorija,UKR,Krim,112000
 3470,Kamjanets-Podilskyi,UKR,Hmelnytskyi,109000
 3471,Jenakijeve,UKR,Donetsk,105000
-3472,Krasnyi Lutš,UKR,Lugansk,101000
+3472,Krasnyi LutS,UKR,Lugansk,101000
 3473,Stahanov,UKR,Lugansk,101000
 3474,Oleksandrija,UKR,Kirovograd,99000
 3475,Konotop,UKR,Sumy,96000
 3476,Kostjantynivka,UKR,Donetsk,95000
-3477,Berdytšiv,UKR,Zytomyr,90000
+3477,BerdytSiv,UKR,Zytomyr,90000
 3478,Izmajil,UKR,Odesa,90000
-3479,Šostka,UKR,Sumy,90000
-3480,Uman,UKR,Tšerkasy,90000
+3479,Sostka,UKR,Sumy,90000
+3480,Uman,UKR,TSerkasy,90000
 3481,Brovary,UKR,Kiova,89000
-3482,Mukatševe,UKR,Taka-Karpatia,89000
+3482,MukatSeve,UKR,Taka-Karpatia,89000
 3483,Budapest,HUN,Budapest,1811552
-3484,Debrecen,HUN,Hajdú-Bihar,203648
-3485,Miskolc,HUN,Borsod-Abaúj-Zemplen,172357
+3484,Debrecen,HUN,Hajdu-Bihar,203648
+3485,Miskolc,HUN,Borsod-Abauj-Zemplen,172357
 3486,Szeged,HUN,Csongrad,158158
 3487,Pecs,HUN,Baranya,157332
 3488,Györ,HUN,Györ-Moson-Sopron,127119
@@ -3525,15 +3525,15 @@ id,name,country_code,district,population
 3524,Grodno,BLR,Grodno,302000
 3525,Brest,BLR,Brest,286000
 3526,Bobruisk,BLR,Mogiljov,221000
-3527,Baranovitši,BLR,Brest,167000
+3527,BaranovitSi,BLR,Brest,167000
 3528,Borisov,BLR,Minsk,151000
 3529,Pinsk,BLR,Brest,130000
-3530,Orša,BLR,Vitebsk,124000
+3530,OrSa,BLR,Vitebsk,124000
 3531,Mozyr,BLR,Gomel,110000
 3532,Novopolotsk,BLR,Vitebsk,106000
 3533,Lida,BLR,Grodno,101000
 3534,Soligorsk,BLR,Minsk,101000
-3535,Molodetšno,BLR,Minsk,97000
+3535,MolodetSno,BLR,Minsk,97000
 3536,Mata-Utu,WLF,Wallis,1137
 3537,Port-Vila,VUT,Shefa,33700
 3538,Città del Vaticano,VAT,N/A,455
@@ -3565,7 +3565,7 @@ id,name,country_code,district,population
 3564,Guacara,VEN,Carabobo,131334
 3565,Valera,VEN,Trujillo,130281
 3566,Guanare,VEN,Portuguesa,125621
-3567,Carúpano,VEN,Sucre,119639
+3567,Carupano,VEN,Sucre,119639
 3568,Catia La Mar,VEN,Distrito Federal,117012
 3569,El Tigre,VEN,Anzoategui,116256
 3570,Guatire,VEN,Miranda,109121
@@ -3586,8 +3586,8 @@ id,name,country_code,district,population
 3585,Samara,RUS,Samara,1156100
 3586,Omsk,RUS,Omsk,1148900
 3587,Kazan,RUS,Tatarstan,1101000
-3588,Ufa,RUS,Baškortostan,1091200
-3589,Tšeljabinsk,RUS,Tšeljabinsk,1083200
+3588,Ufa,RUS,BaSkortostan,1091200
+3589,TSeljabinsk,RUS,TSeljabinsk,1083200
 3590,Rostov-na-Donu,RUS,Rostov-na-Donu,1012700
 3591,Perm,RUS,Perm,1009700
 3592,Volgograd,RUS,Volgograd,993400
@@ -3608,7 +3608,7 @@ id,name,country_code,district,population
 3607,Rjazan,RUS,Rjazan,529900
 3608,Orenburg,RUS,Orenburg,523600
 3609,Lipetsk,RUS,Lipetsk,521000
-3610,Nabereznyje Tšelny,RUS,Tatarstan,514700
+3610,Nabereznyje TSelny,RUS,Tatarstan,514700
 3611,Tula,RUS,Tula,506100
 3612,Tjumen,RUS,Tjumen,503400
 3613,Kemerovo,RUS,Kemerovo,492700
@@ -3616,30 +3616,30 @@ id,name,country_code,district,population
 3615,Tomsk,RUS,Tomsk,482100
 3616,Kirov,RUS,Kirov,466200
 3617,Ivanovo,RUS,Ivanovo,459200
-3618,Tšeboksary,RUS,Tšuvassia,459200
+3618,TSeboksary,RUS,TSuvassia,459200
 3619,Brjansk,RUS,Brjansk,457400
 3620,Tver,RUS,Tver,454900
 3621,Kursk,RUS,Kursk,443500
-3622,Magnitogorsk,RUS,Tšeljabinsk,427900
+3622,Magnitogorsk,RUS,TSeljabinsk,427900
 3623,Kaliningrad,RUS,Kaliningrad,424400
 3624,Nizni Tagil,RUS,Sverdlovsk,390900
 3625,Murmansk,RUS,Murmansk,376300
 3626,Ulan-Ude,RUS,Burjatia,370400
 3627,Kurgan,RUS,Kurgan,364700
 3628,Arkangeli,RUS,Arkangeli,361800
-3629,Sotši,RUS,Krasnodar,358600
+3629,SotSi,RUS,Krasnodar,358600
 3630,Smolensk,RUS,Smolensk,353400
 3631,Orjol,RUS,Orjol,344500
 3632,Stavropol,RUS,Stavropol,343300
 3633,Belgorod,RUS,Belgorod,342000
 3634,Kaluga,RUS,Kaluga,339300
 3635,Vladimir,RUS,Vladimir,337100
-3636,Mahatškala,RUS,Dagestan,332800
-3637,Tšerepovets,RUS,Vologda,324400
+3636,MahatSkala,RUS,Dagestan,332800
+3637,TSerepovets,RUS,Vologda,324400
 3638,Saransk,RUS,Mordva,314800
 3639,Tambov,RUS,Tambov,312000
 3640,Vladikavkaz,RUS,North Ossetia-Alania,310100
-3641,Tšita,RUS,Tšita,309900
+3641,TSita,RUS,TSita,309900
 3642,Vologda,RUS,Vologda,302500
 3643,Veliki Novgorod,RUS,Novgorod,299500
 3644,Komsomolsk-na-Amure,RUS,Habarovsk,291600
@@ -3651,47 +3651,47 @@ id,name,country_code,district,population
 3650,Dzerzinsk,RUS,Nizni Novgorod,277100
 3651,Surgut,RUS,Hanti-Mansia,274900
 3652,Orsk,RUS,Orenburg,273900
-3653,Sterlitamak,RUS,Baškortostan,265200
+3653,Sterlitamak,RUS,BaSkortostan,265200
 3654,Angarsk,RUS,Irkutsk,264700
-3655,Joškar-Ola,RUS,Marinmaa,249200
+3655,JoSkar-Ola,RUS,Marinmaa,249200
 3656,Rybinsk,RUS,Jaroslavl,239600
 3657,Prokopjevsk,RUS,Kemerovo,237300
 3658,Niznevartovsk,RUS,Hanti-Mansia,233900
-3659,Naltšik,RUS,Kabardi-Balkaria,233400
+3659,NaltSik,RUS,Kabardi-Balkaria,233400
 3660,Syktyvkar,RUS,Komi,229700
 3661,Severodvinsk,RUS,Arkangeli,229300
 3662,Bijsk,RUS,Altai,225000
 3663,Niznekamsk,RUS,Tatarstan,223400
-3664,Blagoveštšensk,RUS,Amur,222000
-3665,Šahty,RUS,Rostov-na-Donu,221800
+3664,BlagoveStSensk,RUS,Amur,222000
+3665,Sahty,RUS,Rostov-na-Donu,221800
 3666,Staryi Oskol,RUS,Belgorod,213800
 3667,Zelenograd,RUS,Moscow (City),207100
 3668,Balakovo,RUS,Saratov,206000
 3669,Novorossijsk,RUS,Krasnodar,203300
 3670,Pihkova,RUS,Pihkova,201500
-3671,Zlatoust,RUS,Tšeljabinsk,196900
+3671,Zlatoust,RUS,TSeljabinsk,196900
 3672,Jakutsk,RUS,Saha (Jakutia),195400
 3673,Podolsk,RUS,Moskova,194300
-3674,Petropavlovsk-Kamtšatski,RUS,Kamtšatka,194100
+3674,Petropavlovsk-KamtSatski,RUS,KamtSatka,194100
 3675,Kamensk-Uralski,RUS,Sverdlovsk,190600
 3676,Engels,RUS,Saratov,189000
 3677,Syzran,RUS,Samara,186900
-3678,Grozny,RUS,Tšetšenia,186000
-3679,Novotšerkassk,RUS,Rostov-na-Donu,184400
+3678,Grozny,RUS,TSetSenia,186000
+3679,NovotSerkassk,RUS,Rostov-na-Donu,184400
 3680,Berezniki,RUS,Perm,181900
 3681,Juzno-Sahalinsk,RUS,Sahalin,179200
 3682,Volgodonsk,RUS,Rostov-na-Donu,178200
 3683,Abakan,RUS,Hakassia,169200
 3684,Maikop,RUS,Adygea,167300
-3685,Miass,RUS,Tšeljabinsk,166200
+3685,Miass,RUS,TSeljabinsk,166200
 3686,Armavir,RUS,Krasnodar,164900
 3687,Ljubertsy,RUS,Moskova,163900
 3688,Rubtsovsk,RUS,Altai,162600
 3689,Kovrov,RUS,Vladimir,159900
 3690,Nahodka,RUS,Primorje,157700
 3691,Ussurijsk,RUS,Primorje,157300
-3692,Salavat,RUS,Baškortostan,156800
-3693,Mytištši,RUS,Moskova,155700
+3692,Salavat,RUS,BaSkortostan,156800
+3693,MytiStSi,RUS,Moskova,155700
 3694,Kolomna,RUS,Moskova,150700
 3695,Elektrostal,RUS,Moskova,147000
 3696,Murom,RUS,Vladimir,142400
@@ -3702,28 +3702,28 @@ id,name,country_code,district,population
 3701,Dimitrovgrad,RUS,Uljanovsk,137000
 3702,Pervouralsk,RUS,Sverdlovsk,136100
 3703,Himki,RUS,Moskova,133700
-3704,Balašiha,RUS,Moskova,132900
+3704,BalaSiha,RUS,Moskova,132900
 3705,Nevinnomyssk,RUS,Stavropol,132600
 3706,Pjatigorsk,RUS,Stavropol,132500
 3707,Korolev,RUS,Moskova,132400
 3708,Serpuhov,RUS,Moskova,132000
 3709,Odintsovo,RUS,Moskova,127400
 3710,Orehovo-Zujevo,RUS,Moskova,124900
-3711,Kamyšin,RUS,Volgograd,124600
-3712,Novotšeboksarsk,RUS,Tšuvassia,123400
-3713,Tšerkessk,RUS,Karatšai-Tšerkessia,121700
-3714,Atšinsk,RUS,Krasnojarsk,121600
+3711,KamySin,RUS,Volgograd,124600
+3712,NovotSeboksarsk,RUS,TSuvassia,123400
+3713,TSerkessk,RUS,KaratSai-TSerkessia,121700
+3714,AtSinsk,RUS,Krasnojarsk,121600
 3715,Magadan,RUS,Magadan,121000
-3716,Mitšurinsk,RUS,Tambov,120700
+3716,MitSurinsk,RUS,Tambov,120700
 3717,Kislovodsk,RUS,Stavropol,120400
 3718,Jelets,RUS,Lipetsk,119400
 3719,Seversk,RUS,Tomsk,118600
 3720,Noginsk,RUS,Moskova,117200
 3721,Velikije Luki,RUS,Pihkova,116300
-3722,Novokuibyševsk,RUS,Samara,116200
-3723,Neftekamsk,RUS,Baškortostan,115700
+3722,NovokuibySevsk,RUS,Samara,116200
+3723,Neftekamsk,RUS,BaSkortostan,115700
 3724,Leninsk-Kuznetski,RUS,Kemerovo,113800
-3725,Oktjabrski,RUS,Baškortostan,111500
+3725,Oktjabrski,RUS,BaSkortostan,111500
 3726,Sergijev Posad,RUS,Moskova,111100
 3727,Arzamas,RUS,Nizni Novgorod,110700
 3728,Kiseljovsk,RUS,Kemerovo,110000
@@ -3734,17 +3734,17 @@ id,name,country_code,district,population
 3733,Solikamsk,RUS,Perm,106000
 3734,Sarapul,RUS,Udmurtia,105700
 3735,Ust-Ilimsk,RUS,Irkutsk,105200
-3736,Štšolkovo,RUS,Moskova,104900
-3737,Mezduretšensk,RUS,Kemerovo,104400
+3736,StSolkovo,RUS,Moskova,104900
+3737,MezduretSensk,RUS,Kemerovo,104400
 3738,Usolje-Sibirskoje,RUS,Irkutsk,103500
 3739,Elista,RUS,Kalmykia,103300
-3740,Novošahtinsk,RUS,Rostov-na-Donu,101900
+3740,NovoSahtinsk,RUS,Rostov-na-Donu,101900
 3741,Votkinsk,RUS,Udmurtia,101700
 3742,Kyzyl,RUS,Tyva,101100
 3743,Serov,RUS,Sverdlovsk,100400
 3744,Zelenodolsk,RUS,Tatarstan,100200
 3745,Zeleznodoroznyi,RUS,Moskova,100100
-3746,Kinešma,RUS,Ivanovo,100000
+3746,KineSma,RUS,Ivanovo,100000
 3747,Kuznetsk,RUS,Penza,98200
 3748,Uhta,RUS,Komi,98000
 3749,Jessentuki,RUS,Stavropol,97900
@@ -3752,20 +3752,20 @@ id,name,country_code,district,population
 3751,Neftejugansk,RUS,Hanti-Mansia,97400
 3752,Bataisk,RUS,Rostov-na-Donu,97300
 3753,Nojabrsk,RUS,Yamalin Nenetsia,97300
-3754,Balašov,RUS,Saratov,97100
+3754,BalaSov,RUS,Saratov,97100
 3755,Zeleznogorsk,RUS,Kursk,96900
 3756,Zukovski,RUS,Moskova,96500
 3757,Anzero-Sudzensk,RUS,Kemerovo,96100
 3758,Bugulma,RUS,Tatarstan,94100
 3759,Zeleznogorsk,RUS,Krasnojarsk,94000
 3760,Novouralsk,RUS,Sverdlovsk,93300
-3761,Puškin,RUS,Pietari,92900
+3761,PuSkin,RUS,Pietari,92900
 3762,Vorkuta,RUS,Komi,92600
 3763,Derbent,RUS,Dagestan,92300
-3764,Kirovo-Tšepetsk,RUS,Kirov,91600
+3764,Kirovo-TSepetsk,RUS,Kirov,91600
 3765,Krasnogorsk,RUS,Moskova,91000
 3766,Klin,RUS,Moskova,90000
-3767,Tšaikovski,RUS,Perm,90000
+3767,TSaikovski,RUS,Perm,90000
 3768,Novyi Urengoi,RUS,Yamalin Nenetsia,89800
 3769,Ho Chi Minh City,VNM,Ho Chi Minh City,3980000
 3770,Hanoi,VNM,Hanoi,1410000
