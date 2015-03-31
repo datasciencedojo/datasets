@@ -107,7 +107,7 @@ BLZ,Garifuna,F,6.8
 BLZ,Maya Languages,F,9.6
 BLZ,Spanish,F,31.6
 BMU,English,T,100
-BOL,Aimará,T,3.2
+BOL,Aimara,T,3.2
 BOL,GuaranI,F,0.1
 BOL,Ketšua,T,8.1
 BOL,Spanish,T,87.7
@@ -154,7 +154,7 @@ CHE,French,T,19.2
 CHE,German,T,63.6
 CHE,Italian,T,7.7
 CHE,Romansh,T,0.6
-CHL,Aimará,F,0.5
+CHL,Aimara,F,0.5
 CHL,Araucan,F,9.6
 CHL,Rapa nui,F,0.2
 CHL,Spanish,T,89.7
@@ -545,7 +545,7 @@ MDG,Malagasy,T,98.9
 MDV,Dhivehi,T,100
 MDV,English,F,0
 MEX,Mixtec,F,0.6
-MEX,Náhuatl,F,1.8
+MEX,Nahuatl,F,1.8
 MEX,OtomI,F,0.4
 MEX,Spanish,T,92.1
 MEX,Yucatec,F,1.1
@@ -696,7 +696,7 @@ PAN,Embera,F,0.6
 PAN,GuaymI,F,5.3
 PAN,Spanish,T,76.8
 PCN,Pitcairnese,F,0
-PER,Aimará,T,2.3
+PER,Aimara,T,2.3
 PER,Ketšua,T,16.4
 PER,Spanish,T,79.8
 PHL,Bicol,F,5.7

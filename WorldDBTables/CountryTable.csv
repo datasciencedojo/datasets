@@ -10,8 +10,8 @@ ARE,United Arab Emirates,Asia,Middle East,83600,1971,2441000,74.1,37966,36846,Al
 ARG,Argentina,South America,South America,2780400,1816,37032000,75.1,340238,323310,Argentina,Federal Republic,Fernando de la Rúa,69,AR
 ARM,Armenia,Asia,Middle East,29800,1991,3520000,66.4,1813,1627,Hajastan,Republic,Robert Kotšarjan,126,AM
 ASM,American Samoa,Oceania,Polynesia,199,NULL,68000,75.1,334,NULL,Amerika Samoa,US Territory,George W. Bush,54,AS
-ATA,Antarctica,Antarctica,Antarctica,13120000,NULL,0,NULL,0,NULL,–,Co-administrated,,NULL,AQ
-ATF,French Southern territories,Antarctica,Antarctica,7780,NULL,0,NULL,0,NULL,Terres australes françaises,Nonmetropolitan Territory of France,Jacques Chirac,NULL,TF
+ATA,Antarctica,Antarctica,Antarctica,13120000,NULL,0,NULL,0,NULL,N/A,Co-administrated,,NULL,AQ
+ATF,French Southern territories,Antarctica,Antarctica,7780,NULL,0,NULL,0,NULL,Terres australes francaises,Nonmetropolitan Territory of France,Jacques Chirac,NULL,TF
 ATG,Antigua and Barbuda,North America,Caribbean,442,1981,68000,70.5,612,584,Antigua and Barbuda,Constitutional Monarchy,Elisabeth II,63,AG
 AUS,Australia,Oceania,Australia and New Zealand,7741220,1901,18886000,79.8,351182,392911,Australia,"Constitutional Monarchy, Federation",Elisabeth II,135,AU
 AUT,Austria,Europe,Western Europe,83859,1918,8091800,77.7,211860,206025,Österreich,Federal Republic,Thomas Klestil,1523,AT
@@ -28,7 +28,7 @@ BIH,Bosnia and Herzegovina,Europe,Southern Europe,51197,1992,3972000,71.5,2841,N
 BLR,Belarus,Europe,Eastern Europe,207600,1991,10236000,68,13714,NULL,Belarus,Republic,Aljaksandr Lukašenka,3520,BY
 BLZ,Belize,North America,Central America,22696,1981,241000,70.9,630,616,Belize,Constitutional Monarchy,Elisabeth II,185,BZ
 BMU,Bermuda,North America,North America,53,NULL,65000,76.9,2328,2190,Bermuda,Dependent Territory of the UK,Elisabeth II,191,BM
-BOL,Bolivia,South America,South America,1098581,1825,8329000,63.7,8571,7967,Bolivia,Republic,Hugo Bánzer Suárez,194,BO
+BOL,Bolivia,South America,South America,1098581,1825,8329000,63.7,8571,7967,Bolivia,Republic,Hugo Banzer Suarez,194,BO
 BRA,Brazil,South America,South America,8547403,1822,170115000,62.9,776739,804108,Brasil,Federal Republic,Fernando Henrique Cardoso,211,BR
 BRB,Barbados,North America,Caribbean,430,1966,270000,73,2223,2186,Barbados,Constitutional Monarchy,Elisabeth II,174,BB
 BRN,Brunei,Asia,Southeast Asia,5765,1984,328000,73.6,11705,12460,Brunei Darussalam,Monarchy (Sultanate),Haji Hassan al-Bolkiah,538,BN
@@ -49,12 +49,12 @@ COK,Cook Islands,Oceania,Polynesia,236,NULL,20000,71.1,100,NULL,The Cook Islands
 COL,Colombia,South America,South America,1138914,1810,42321000,70.3,102896,105116,Colombia,Republic,Andres Pastrana Arango,2257,CO
 COM,Comoros,Africa,Eastern Africa,1862,1975,578000,60,4401,4361,Komori/Comores,Republic,Azali Assoumani,2295,KM
 CPV,Cape Verde,Africa,Western Africa,4033,1975,428000,68.9,435,420,Cabo Verde,Republic,Antonio Mascarenhas Monteiro,1859,CV
-CRI,Costa Rica,North America,Central America,51100,1821,4023000,75.8,10226,9757,Costa Rica,Republic,Miguel Ángel RodrIguez EcheverrIa,584,CR
+CRI,Costa Rica,North America,Central America,51100,1821,4023000,75.8,10226,9757,Costa Rica,Republic,Miguel angel RodrIguez EcheverrIa,584,CR
 CUB,Cuba,North America,Caribbean,110861,1902,11201000,76.2,17843,18862,Cuba,Socialistic Republic,Fidel Castro Ruz,2413,CU
 CXR,Christmas Island,Oceania,Australia and New Zealand,135,NULL,2500,NULL,0,NULL,Christmas Island,Territory of Australia,Elisabeth II,1791,CX
 CYM,Cayman Islands,North America,Caribbean,264,NULL,38000,78.9,1263,1186,Cayman Islands,Dependent Territory of the UK,Elisabeth II,553,KY
 CYP,Cyprus,Asia,Middle East,9251,1960,754700,76.7,9333,8246,Kýpros/Kibris,Republic,Glafkos Klerides,2430,CY
-CZE,Czech Republic,Europe,Eastern Europe,78866,1993,10278100,74.5,55017,52037,¸esko,Republic,Václav Havel,3339,CZ
+CZE,Czech Republic,Europe,Eastern Europe,78866,1993,10278100,74.5,55017,52037,¸esko,Republic,Vaclav Havel,3339,CZ
 DEU,Germany,Europe,Western Europe,357022,1955,82164700,77.4,2133367,2102826,Deutschland,Federal Republic,Johannes Rau,3068,DE
 DJI,Djibouti,Africa,Eastern Africa,23200,1977,638000,50.8,382,373,Djibouti/Jibuti,Republic,Ismail Omar Guelleh,585,DJ
 DMA,Dominica,North America,Caribbean,751,1978,71000,73.4,256,243,Dominica,Republic,Vernon Shaw,586,DM
@@ -82,13 +82,13 @@ GIB,Gibraltar,Europe,Southern Europe,6,NULL,25000,79,258,NULL,Gibraltar,Dependen
 GIN,Guinea,Africa,Western Africa,245857,1958,7430000,45.6,2352,2383,Guinee,Republic,Lansana Conte,926,GN
 GLP,Guadeloupe,North America,Caribbean,1705,NULL,456000,77,3501,NULL,Guadeloupe,Overseas Department of France,Jacques Chirac,919,GP
 GMB,Gambia,Africa,Western Africa,11295,1965,1305000,53.2,320,325,The Gambia,Republic,Yahya Jammeh,904,GM
-GNB,Guinea-Bissau,Africa,Western Africa,36125,1974,1213000,49,293,272,Guine-Bissau,Republic,Kumba Ialá,927,GW
+GNB,Guinea-Bissau,Africa,Western Africa,36125,1974,1213000,49,293,272,Guine-Bissau,Republic,Kumba Iala,927,GW
 GNQ,Equatorial Guinea,Africa,Central Africa,28051,1968,453000,53.6,283,542,Guinea Ecuatorial,Republic,Teodoro Obiang Nguema Mbasogo,2972,GQ
-GRC,Greece,Europe,Southern Europe,131626,1830,10545700,78.4,120724,119946,Elláda,Republic,Kostis Stefanopoulos,2401,GR
+GRC,Greece,Europe,Southern Europe,131626,1830,10545700,78.4,120724,119946,Ellada,Republic,Kostis Stefanopoulos,2401,GR
 GRD,Grenada,North America,Caribbean,344,1974,94000,64.5,318,NULL,Grenada,Constitutional Monarchy,Elisabeth II,916,GD
 GRL,Greenland,North America,North America,2166090,NULL,56000,68.1,0,NULL,Kalaallit Nunaat/Gronland,Part of Denmark,Margrethe II,917,GL
 GTM,Guatemala,North America,Central America,108889,1821,11385000,66.2,19008,17797,Guatemala,Republic,Alfonso Portillo Cabrera,922,GT
-GUF,French Guiana,South America,South America,90000,NULL,181000,76.1,681,NULL,Guyane française,Overseas Department of France,Jacques Chirac,3014,GF
+GUF,French Guiana,South America,South America,90000,NULL,181000,76.1,681,NULL,Guyane francaise,Overseas Department of France,Jacques Chirac,3014,GF
 GUM,Guam,Oceania,Micronesia,549,NULL,168000,77.8,1197,1136,Guam,US Territory,George W. Bush,921,GU
 GUY,Guyana,South America,South America,214969,1966,861000,64,722,743,Guyana,Republic,Bharrat Jagdeo,928,GY
 HKG,Hong Kong,Asia,Eastern Asia,1075,NULL,6782000,79.5,166448,173610,Xianggang/Hong Kong,Special Administrative Region of China,Jiang Zemin,937,HK
@@ -96,7 +96,7 @@ HMD,Heard Island and McDonald Islands,Antarctica,Antarctica,359,NULL,0,NULL,0,NU
 HND,Honduras,North America,Central America,112088,1838,6485000,69.9,5333,4697,Honduras,Republic,Carlos Roberto Flores Facusse,933,HN
 HRV,Croatia,Europe,Southern Europe,56538,1991,4473000,73.7,20208,19300,Hrvatska,Republic,Štipe Mesic,2409,HR
 HTI,Haiti,North America,Caribbean,27750,1804,8222000,49.2,3459,3107,Haiti/Dayti,Republic,Jean-Bertrand Aristide,929,HT
-HUN,Hungary,Europe,Eastern Europe,93030,1918,10043200,71.4,48267,45914,Magyarország,Republic,Ferenc Mádl,3483,HU
+HUN,Hungary,Europe,Eastern Europe,93030,1918,10043200,71.4,48267,45914,Magyarorszag,Republic,Ferenc Madl,3483,HU
 IDN,Indonesia,Asia,Southeast Asia,1904569,1945,212107000,68,84982,215002,Indonesia,Republic,Abdurrahman Wahid,939,ID
 IND,India,Asia,Southern and Central Asia,3287263,1947,1013662000,62.5,447114,430572,Bharat/India,Federal Republic,Kocheril Raman Narayanan,1109,IN
 IOT,British Indian Ocean Territory,Africa,Eastern Africa,78,NULL,0,NULL,0,NULL,British Indian Ocean Territory,Dependent Territory of the UK,Elisabeth II,NULL,IO
@@ -142,7 +142,7 @@ MLT,Malta,Europe,Southern Europe,316,1964,380200,77.9,3512,3338,Malta,Republic,G
 MMR,Myanmar,Asia,Southeast Asia,676578,1948,45611000,54.9,180375,171028,Myanma Pye,Republic,kenraali Than Shwe,2710,MM
 MNG,Mongolia,Asia,Eastern Asia,1566500,1921,2662000,67.3,1043,933,Mongol Uls,Republic,Natsagiin Bagabandi,2696,MN
 MNP,Northern Mariana Islands,Oceania,Micronesia,464,NULL,78000,75.5,0,NULL,Northern Mariana Islands,Commonwealth of the US,George W. Bush,2913,MP
-MOZ,Mozambique,Africa,Eastern Africa,801590,1975,19680000,37.5,2891,2711,Moçambique,Republic,JoaquIm A. Chissano,2698,MZ
+MOZ,Mozambique,Africa,Eastern Africa,801590,1975,19680000,37.5,2891,2711,Mocambique,Republic,JoaquIm A. Chissano,2698,MZ
 MRT,Mauritania,Africa,Western Africa,1025520,1960,2670000,50.8,998,1081,Muritaniya/Mauritanie,Republic,Maaouiya Ould Sid Ahmad Taya,2509,MR
 MSR,Montserrat,North America,Caribbean,102,NULL,11000,78,109,NULL,Montserrat,Dependent Territory of the UK,Elisabeth II,2697,MS
 MTQ,Martinique,North America,Caribbean,1102,NULL,395000,78.3,2731,2559,Martinique,Overseas Department of France,Jacques Chirac,2508,MQ
@@ -155,7 +155,7 @@ NCL,New Caledonia,Oceania,Melanesia,18575,NULL,214000,72.8,3563,NULL,Nouvelle-Ca
 NER,Niger,Africa,Western Africa,1267000,1960,10730000,41.3,1706,1580,Niger,Republic,Mamadou Tandja,2738,NE
 NFK,Norfolk Island,Oceania,Australia and New Zealand,36,NULL,2000,NULL,0,NULL,Norfolk Island,Territory of Australia,Elisabeth II,2806,NF
 NGA,Nigeria,Africa,Western Africa,923768,1960,111506000,51.6,65707,58623,Nigeria,Federal Republic,Olusegun Obasanjo,2754,NG
-NIC,Nicaragua,North America,Central America,130000,1838,5074000,68.7,1988,2023,Nicaragua,Republic,Arnoldo Alemán Lacayo,2734,NI
+NIC,Nicaragua,North America,Central America,130000,1838,5074000,68.7,1988,2023,Nicaragua,Republic,Arnoldo Aleman Lacayo,2734,NI
 NIU,Niue,Oceania,Polynesia,260,NULL,2000,NULL,0,NULL,Niue,Nonmetropolitan Territory of New Zealand,Elisabeth II,2805,NU
 NLD,Netherlands,Europe,Western Europe,41526,1581,15864000,78.3,371362,360478,Nederland,Constitutional Monarchy,Willem-Alexander,5,NL
 NOR,Norway,Europe,Nordic Countries,323877,1905,4478500,78.7,145895,153370,Norge,Constitutional Monarchy,Harald V,2807,NO
@@ -164,7 +164,7 @@ NRU,Nauru,Oceania,Micronesia,21,1968,12000,60.8,197,NULL,Naoero/Nauru,Republic,B
 NZL,New Zealand,Oceania,Australia and New Zealand,270534,1907,3862000,77.8,54669,64960,New Zealand/Aotearoa,Constitutional Monarchy,Elisabeth II,3499,NZ
 OMN,Oman,Asia,Middle East,309500,1951,2542000,71.8,16904,16153, Uman,Monarchy (Sultanate),Qabus ibn Sa id,2821,OM
 PAK,Pakistan,Asia,Southern and Central Asia,796095,1947,156483000,61.1,61289,58549,Pakistan,Republic,Mohammad Rafiq Tarar,2831,PK
-PAN,Panama,North America,Central America,75517,1903,2856000,75.5,9131,8700,Panamá,Republic,Mireya Elisa Moscoso RodrIguez,2882,PA
+PAN,Panama,North America,Central America,75517,1903,2856000,75.5,9131,8700,Panama,Republic,Mireya Elisa Moscoso RodrIguez,2882,PA
 PCN,Pitcairn,Oceania,Polynesia,49,NULL,50,NULL,0,NULL,Pitcairn,Dependent Territory of the UK,Elisabeth II,2912,PN
 PER,Peru,South America,South America,1285216,1821,25662000,70,64140,65186,Perú/Piruw,Republic,Valentin Paniagua Corazao,2890,PE
 PHL,Philippines,Asia,Southeast Asia,300000,1946,75967000,67.5,65107,82239,Pilipinas,Republic,Gloria Macapagal-Arroyo,766,PH
@@ -174,9 +174,9 @@ POL,Poland,Europe,Eastern Europe,323250,1918,38653600,73.2,151697,135636,Polska,
 PRI,Puerto Rico,North America,Caribbean,8875,NULL,3869000,75.6,34100,32100,Puerto Rico,Commonwealth of the US,George W. Bush,2919,PR
 PRK,North Korea,Asia,Eastern Asia,120538,1948,24039000,70.7,5332,NULL,Choson Minjujuui In min Konghwaguk (Bukhan),Socialistic Republic,Kim Jong-il,2318,KP
 PRT,Portugal,Europe,Southern Europe,91982,1143,9997600,75.8,105954,102133,Portugal,Republic,Jorge Sampãio,2914,PT
-PRY,Paraguay,South America,South America,406752,1811,5496000,73.7,8444,9555,Paraguay,Republic,Luis Ángel González Macchi,2885,PY
+PRY,Paraguay,South America,South America,406752,1811,5496000,73.7,8444,9555,Paraguay,Republic,Luis angel Gonzalez Macchi,2885,PY
 PSE,Palestine,Asia,Middle East,6257,NULL,3101000,71.4,4173,NULL,Filastin,Autonomous Area,Yasser (Yasir) Arafat,4074,PS
-PYF,French Polynesia,Oceania,Polynesia,4000,NULL,235000,74.8,818,781,Polynesie française,Nonmetropolitan Territory of France,Jacques Chirac,3016,PF
+PYF,French Polynesia,Oceania,Polynesia,4000,NULL,235000,74.8,818,781,Polynesie francaise,Nonmetropolitan Territory of France,Jacques Chirac,3016,PF
 QAT,Qatar,Asia,Middle East,11000,1971,599000,72.4,9472,8920,Qatar,Monarchy,Hamad ibn Khalifa al-Thani,2973,QA
 REU,Reunion,Africa,Eastern Africa,2510,NULL,699000,72.7,8287,7988,Reunion,Overseas Department of France,Jacques Chirac,3017,RE
 ROM,Romania,Europe,Eastern Europe,238391,1878,22455500,69.9,38158,34843,România,Republic,Ion Iliescu,3018,RO
@@ -207,7 +207,7 @@ TCA,Turks and Caicos Islands,North America,Caribbean,430,NULL,17000,73.3,96,NULL
 TCD,Chad,Africa,Central Africa,1284000,1960,7651000,50.5,1208,1102,Tchad/Tshad,Republic,Idriss Deby,3337,TD
 TGO,Togo,Africa,Western Africa,56785,1960,4629000,54.7,1449,1400,Togo,Republic,Gnassingbe Eyadema,3332,TG
 THA,Thailand,Asia,Southeast Asia,513115,1350,61399000,68.6,116416,153907,Prathet Thai,Constitutional Monarchy,Bhumibol Adulyadej,3320,TH
-TJK,Tajikistan,Asia,Southern and Central Asia,143100,1991,6188000,64.1,1990,1056,Toçikiston,Republic,Emomali Rahmonov,3261,TJ
+TJK,Tajikistan,Asia,Southern and Central Asia,143100,1991,6188000,64.1,1990,1056,Tocikiston,Republic,Emomali Rahmonov,3261,TJ
 TKL,Tokelau,Oceania,Polynesia,12,NULL,2000,NULL,0,NULL,Tokelau,Nonmetropolitan Territory of New Zealand,Elisabeth II,3333,TK
 TKM,Turkmenistan,Asia,Southern and Central Asia,488100,1991,4459000,60.9,4397,2000,Türkmenostan,Republic,Saparmurad Nijazov,3419,TM
 TMP,East Timor,Asia,Southeast Asia,14874,NULL,885000,46,0,NULL,Timor Timur,Administrated by the UN,Jose Alexandre Gusmão,1522,TP
@@ -221,12 +221,12 @@ TZA,Tanzania,Africa,Eastern Africa,883749,1961,33517000,52.3,8005,7388,Tanzania,
 UGA,Uganda,Africa,Eastern Africa,241038,1962,21778000,42.9,6313,6887,Uganda,Republic,Yoweri Museveni,3425,UG
 UKR,Ukraine,Europe,Eastern Europe,603700,1991,50456000,66,42168,49677,Ukrajina,Republic,Leonid Kutšma,3426,UA
 UMI,United States Minor Outlying Islands,Oceania,Micronesia/Caribbean,16,NULL,0,NULL,0,NULL,United States Minor Outlying Islands,Dependent Territory of the US,George W. Bush,NULL,UM
-URY,Uruguay,South America,South America,175016,1828,3337000,75.2,20831,19967,Uruguay,Republic,Jorge Batlle Ibánez,3492,UY
+URY,Uruguay,South America,South America,175016,1828,3337000,75.2,20831,19967,Uruguay,Republic,Jorge Batlle Ibanez,3492,UY
 USA,United States,North America,North America,9363520,1776,278357000,77.1,8510700,8110900,United States,Federal Republic,George W. Bush,3813,US
 UZB,Uzbekistan,Asia,Southern and Central Asia,447400,1991,24318000,63.7,14194,21300,Uzbekiston,Republic,Islam Karimov,3503,UZ
 VAT,Holy See (Vatican City State),Europe,Southern Europe,0.4,1929,1000,NULL,9,NULL,Santa Sede/Città del Vaticano,Independent Church State,Johannes Paavali II,3538,VA
 VCT,Saint Vincent and the Grenadines,North America,Caribbean,388,1979,114000,72.3,285,NULL,Saint Vincent and the Grenadines,Constitutional Monarchy,Elisabeth II,3066,VC
-VEN,Venezuela,South America,South America,912050,1811,24170000,73.1,95023,88434,Venezuela,Federal Republic,Hugo Chávez FrIas,3539,VE
+VEN,Venezuela,South America,South America,912050,1811,24170000,73.1,95023,88434,Venezuela,Federal Republic,Hugo Chavez FrIas,3539,VE
 VGB,"Virgin Islands, British",North America,Caribbean,151,NULL,21000,75.4,612,573,British Virgin Islands,Dependent Territory of the UK,Elisabeth II,537,VG
 VIR,"Virgin Islands, U.S.",North America,Caribbean,347,NULL,93000,78.1,0,NULL,Virgin Islands of the United States,US Territory,George W. Bush,4067,VI
 VNM,Vietnam,Asia,Southeast Asia,331689,1945,79832000,69.3,21929,22834,Viêt Nam,Socialistic Republic,Trân Duc Luong,3770,VN
