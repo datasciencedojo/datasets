@@ -109,7 +109,7 @@ BLZ,Spanish,F,31.6
 BMU,English,T,100
 BOL,Aimara,T,3.2
 BOL,GuaranI,F,0.1
-BOL,Ketšua,T,8.1
+BOL,KetSua,T,8.1
 BOL,Spanish,T,87.7
 BRA,German,F,0.5
 BRA,Indian Languages,F,0.2
@@ -161,7 +161,7 @@ CHL,Spanish,T,89.7
 CHN,Chinese,T,92
 CHN,Dong,F,0.2
 CHN,Hui,F,0.8
-CHN,Mantšu,F,0.9
+CHN,MantSu,F,0.9
 CHN,Miao,F,0.7
 CHN,Mongolian,F,0.4
 CHN,Puyi,F,0.2
@@ -253,7 +253,7 @@ DOM,Creole French,F,2
 DOM,Spanish,T,98
 DZA,Arabic,T,86
 DZA,Berberi,F,14
-ECU,Ketšua,F,7
+ECU,KetSua,F,7
 ECU,Spanish,T,93
 EGY,Arabic,T,98.8
 EGY,Sinaberberi,F,0
@@ -471,7 +471,7 @@ KGZ,Ukrainian,F,1.7
 KGZ,Uzbek,F,14.1
 KHM,Chinese,F,3.1
 KHM,Khmer,T,88.6
-KHM,Tšam,F,2.4
+KHM,TSam,F,2.4
 KHM,Vietnamese,F,5.5
 KIR,Kiribati,T,98.9
 KIR,Tuvalu,F,0.5
@@ -697,7 +697,7 @@ PAN,GuaymI,F,5.3
 PAN,Spanish,T,76.8
 PCN,Pitcairnese,F,0
 PER,Aimara,T,2.3
-PER,Ketšua,T,16.4
+PER,KetSua,T,16.4
 PER,Spanish,T,79.8
 PHL,Bicol,F,5.7
 PHL,Cebuano,F,23.3
