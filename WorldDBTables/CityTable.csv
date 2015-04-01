@@ -2691,7 +2691,7 @@ id,name,country_code,district,population
 2690,Chisinau,MDA,Chisinau,719900
 2691,Tiraspol,MDA,Dnjestria,194300
 2692,Balti,MDA,Balti,153400
-2693,Bender (Tîghina),MDA,Bender (Tîghina),125700
+2693,Bender (Tighina),MDA,Bender (Tighina),125700
 2694,Monte-Carlo,MCO,N/A,13154
 2695,Monaco-Ville,MCO,N/A,1234
 2696,ulan Bator,MNG,ulaanbaatar,773700
@@ -2972,7 +2972,7 @@ id,name,country_code,district,population
 2971,Jelenia Gora,POL,Dolnoslaskie,93901
 2972,Malabo,GNQ,Bioko,40000
 2973,Doha,QAT,Doha,355000
-2974,Paris,FRA,Île-de-France,2125246
+2974,Paris,FRA,ile-de-France,2125246
 2975,Marseille,FRA,Provence-Alpes-Cote,798430
 2976,Lyon,FRA,Rhone-Alpes,445452
 2977,Toulouse,FRA,Midi-Pyrenees,390350
@@ -2996,7 +2996,7 @@ id,name,country_code,district,population
 2995,Amiens,FRA,Picardie,135501
 2996,Aix-en-Provence,FRA,Provence-Alpes-Cote,134222
 2997,Limoges,FRA,Limousin,133968
-2998,Nîmes,FRA,Languedoc-Roussillon,133424
+2998,Nimes,FRA,Languedoc-Roussillon,133424
 2999,Tours,FRA,Centre,132820
 3000,Villeurbanne,FRA,Rhone-Alpes,124215
 3001,Metz,FRA,Lorraine,123776
@@ -3005,13 +3005,13 @@ id,name,country_code,district,population
 3004,Orleans,FRA,Centre,113126
 3005,Mulhouse,FRA,Alsace,110359
 3006,Rouen,FRA,Haute-Normandie,106592
-3007,Boulogne-Billancourt,FRA,Île-de-France,106367
+3007,Boulogne-Billancourt,FRA,ile-de-France,106367
 3008,Perpignan,FRA,Languedoc-Roussillon,105115
 3009,Nancy,FRA,Lorraine,103605
 3010,Roubaix,FRA,Nord-Pas-de-Calais,96984
-3011,Argenteuil,FRA,Île-de-France,93961
+3011,Argenteuil,FRA,ile-de-France,93961
 3012,Tourcoing,FRA,Nord-Pas-de-Calais,93540
-3013,Montreuil,FRA,Île-de-France,90674
+3013,Montreuil,FRA,ile-de-France,90674
 3014,Cayenne,GuF,Cayenne,50699
 3015,Faaa,PYF,Tahiti,25888
 3016,Papeete,PYF,Tahiti,25553
@@ -3048,17 +3048,17 @@ id,name,country_code,district,population
 3047,Kigali,RWA,Kigali,286000
 3048,Stockholm,SWE,Lisboa,750348
 3049,Gothenburg [Goteborg],SWE,West Gotanmaan lan,466990
-3050,Malmo,SWE,Skåne lan,259579
+3050,Malmo,SWE,SkÃ¥ne lan,259579
 3051,uppsala,SWE,uppsala lan,189569
 3052,Linkoping,SWE,East Gotanmaan lan,133168
-3053,Vasterås,SWE,Vastmanlands lan,126328
+3053,VasterÃ¥s,SWE,Vastmanlands lan,126328
 3054,orebro,SWE,orebros lan,124207
 3055,Norrkoping,SWE,East Gotanmaan lan,122199
-3056,Helsingborg,SWE,Skåne lan,117737
+3056,Helsingborg,SWE,SkÃ¥ne lan,117737
 3057,Jonkoping,SWE,Jonkopings lan,117095
-3058,umeå,SWE,Vasterbottens lan,104512
-3059,Lund,SWE,Skåne lan,98948
-3060,Borås,SWE,West Gotanmaan lan,96883
+3058,umeÃ¥,SWE,Vasterbottens lan,104512
+3059,Lund,SWE,SkÃ¥ne lan,98948
+3060,BorÃ¥s,SWE,West Gotanmaan lan,96883
 3061,Sundsvall,SWE,Vasternorrlands lan,93126
 3062,Gavle,SWE,Gavleborgs lan,90742
 3063,Jamestown,SHN,Saint Helena,1500
@@ -3208,8 +3208,8 @@ id,name,country_code,district,population
 3207,Freetown,SLE,Western,850000
 3208,Singapore,SGP,N/A,4017733
 3209,Bratislava,SVK,Bratislava,448292
-3210,KoSice,SVK,Východne Slovensko,241874
-3211,PreSov,SVK,Východne Slovensko,93977
+3210,KoSice,SVK,Vychodne Slovensko,241874
+3211,PreSov,SVK,Vychodne Slovensko,93977
 3212,Ljubljana,SVN,Osrednjeslovenska,270986
 3213,Maribor,SVN,Podravska,115532
 3214,Mogadishu,SOM,Banaadir,997000
@@ -3238,7 +3238,7 @@ id,name,country_code,district,population
 3237,Espoo,FIN,Newmaa,213271
 3238,Tampere,FIN,Pirkanmaa,195468
 3239,Vantaa,FIN,Newmaa,178471
-3240,Turku [Åbo],FIN,Varsinais-Suomi,172561
+3240,Turku [Ã…bo],FIN,Varsinais-Suomi,172561
 3241,Oulu,FIN,Pohjois-Pohjanmaa,120753
 3242,Lahti,FIN,Paijat-Hame,96921
 3243,Paramaribo,SuR,Paramaribo,112000
@@ -3314,7 +3314,7 @@ id,name,country_code,district,population
 3313,Moshi,TZA,Kilimanjaro,96800
 3314,Tabora,TZA,Tabora,92800
 3315,Kobenhavn,DNK,Kobenhavn,495699
-3316,Århus,DNK,Århus,284846
+3316,Ã…rhus,DNK,Ã…rhus,284846
 3317,Odense,DNK,Fyn,183912
 3318,Aalborg,DNK,Nordjylland,161161
 3319,Frederiksberg,DNK,Frederiksberg,90327
@@ -3344,9 +3344,9 @@ id,name,country_code,district,population
 3343,Olomouc,CZE,SevernI Morava,102702
 3344,Liberec,CZE,SevernI Cechy,99155
 3345,Ceske Budejovice,CZE,JiznI Cechy,98186
-3346,Hradec Kralove,CZE,VýchodnI Cechy,98080
+3346,Hradec Kralove,CZE,VychodnI Cechy,98080
 3347,ustI nad Labem,CZE,SevernI Cechy,95491
-3348,Pardubice,CZE,VýchodnI Cechy,91309
+3348,Pardubice,CZE,VychodnI Cechy,91309
 3349,Tunis,TuN,Tunis,690600
 3350,Sfax,TuN,Sfax,257800
 3351,Ariana,TuN,Ariana,197000
@@ -3536,7 +3536,7 @@ id,name,country_code,district,population
 3535,MolodetSno,BLR,Minsk,97000
 3536,Mata-utu,WLF,Wallis,1137
 3537,Port-Vila,VuT,Shefa,33700
-3538,Città del Vaticano,VAT,N/A,455
+3538,Citta del Vaticano,VAT,N/A,455
 3539,Caracas,VEN,Distrito Federal,1975294
 3540,MaracaIbo,VEN,Zulia,1304776
 3541,Barquisimeto,VEN,Lara,877239
