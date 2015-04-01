@@ -35,13 +35,13 @@ BRN,Brunei,Asia,Southeast Asia,5765,1984,328000,73.6,11705,12460,Brunei Darussal
 BTN,Bhutan,Asia,Southern and Central Asia,47000,1910,2124000,52.4,372,383,Druk-Yul,Monarchy,Jigme Singye Wangchuk,192,BT
 BVT,Bouvet Island,Antarctica,Antarctica,59,NuLL,0,NuLL,0,NuLL,Bouvetoya,Dependent Territory of Norway,Harald V,NuLL,BV
 BWA,Botswana,Africa,Southern Africa,581730,1966,1622000,39.3,4834,4935,Botswana,Republic,Festus G. Mogae,204,BW
-CAF,Central African Republic,Africa,Central Africa,622984,1960,3615000,44,1054,993,Centrafrique/Be-Afrîka,Republic,Ange-Felix Patasse,1889,CF
+CAF,Central African Republic,Africa,Central Africa,622984,1960,3615000,44,1054,993,Centrafrique/Be-Afrika,Republic,Ange-Felix Patasse,1889,CF
 CAN,Canada,North America,North America,9970610,1867,31147000,79.4,598862,625626,Canada,"Constitutional Monarchy, Federation",Elisabeth II,1822,CA
 CCK,Cocos (Keeling) Islands,Oceania,Australia and New Zealand,14,NuLL,600,NuLL,0,NuLL,Cocos (Keeling) Islands,Territory of Australia,Elisabeth II,2317,CC
 CHE,Switzerland,Europe,Western Europe,41284,1499,7160400,79.6,264478,256092,Schweiz/Suisse/Svizzera/Svizra,Federation,Adolf Ogi,3248,CH
 CHL,Chile,South America,South America,756626,1810,15211000,75.7,72949,75780,Chile,Republic,Ricardo Lagos Escobar,554,CL
 CHN,China,Asia,Eastern Asia,9572900,-1523,1277558000,71.4,982268,917719,Zhongquo,People'sRepublic,Jiang Zemin,1891,CN
-CIV,Cote d’Ivoire,Africa,Western Africa,322463,1960,14786000,45.2,11345,10285,Cote d’Ivoire,Republic,Laurent Gbagbo,2814,CI
+CIV,Cote dIvoire,Africa,Western Africa,322463,1960,14786000,45.2,11345,10285,Cote dIvoire,Republic,Laurent Gbagbo,2814,CI
 CMR,Cameroon,Africa,Central Africa,475442,1960,15085000,54.8,9174,8596,Cameroun/Cameroon,Republic,Paul Biya,1804,CM
 COD,"Congo, The Democratic Republic of the",Africa,Central Africa,2344858,1960,51654000,48.8,6964,2474,Republique Democratique du Congo,Republic,Joseph Kabila,2298,CD
 COG,Congo,Africa,Central Africa,342000,1960,2943000,47.4,2108,2287,Congo,Republic,Denis Sassou-Nguesso,2296,CG
@@ -53,14 +53,14 @@ CRI,Costa Rica,North America,Central America,51100,1821,4023000,75.8,10226,9757,
 CuB,Cuba,North America,Caribbean,110861,1902,11201000,76.2,17843,18862,Cuba,Socialistic Republic,Fidel Castro Ruz,2413,Cu
 CXR,Christmas Island,Oceania,Australia and New Zealand,135,NuLL,2500,NuLL,0,NuLL,Christmas Island,Territory of Australia,Elisabeth II,1791,CX
 CYM,Cayman Islands,North America,Caribbean,264,NuLL,38000,78.9,1263,1186,Cayman Islands,Dependent Territory of the uK,Elisabeth II,553,KY
-CYP,Cyprus,Asia,Middle East,9251,1960,754700,76.7,9333,8246,Kýpros/Kibris,Republic,Glafkos Klerides,2430,CY
-CZE,Czech Republic,Europe,Eastern Europe,78866,1993,10278100,74.5,55017,52037,¸esko,Republic,Vaclav Havel,3339,CZ
+CYP,Cyprus,Asia,Middle East,9251,1960,754700,76.7,9333,8246,Kypros/Kibris,Republic,Glafkos Klerides,2430,CY
+CZE,Czech Republic,Europe,Eastern Europe,78866,1993,10278100,74.5,55017,52037,esko,Republic,Vaclav Havel,3339,CZ
 DEu,Germany,Europe,Western Europe,357022,1955,82164700,77.4,2133367,2102826,Deutschland,Federal Republic,Johannes Rau,3068,DE
 DJI,Djibouti,Africa,Eastern Africa,23200,1977,638000,50.8,382,373,Djibouti/Jibuti,Republic,Ismail Omar Guelleh,585,DJ
 DMA,Dominica,North America,Caribbean,751,1978,71000,73.4,256,243,Dominica,Republic,Vernon Shaw,586,DM
 DNK,Denmark,Europe,Nordic Countries,43094,800,5330000,76.5,174099,169264,Danmark,Constitutional Monarchy,Margrethe II,3315,DK
 DOM,Dominican Republic,North America,Caribbean,48511,1844,8495000,73.2,15846,15076,Republica Dominicana,Republic,Hipolito MejIa DomInguez,587,DO
-DZA,Algeria,Africa,Northern Africa,2381741,1962,31471000,69.7,49982,46966,Al-Jaza’ir/Algerie,Republic,Abdelaziz Bouteflika,35,DZ
+DZA,Algeria,Africa,Northern Africa,2381741,1962,31471000,69.7,49982,46966,Al-Jazair/Algerie,Republic,Abdelaziz Bouteflika,35,DZ
 ECu,Ecuador,South America,South America,283561,1822,12646000,71.1,19770,19769,Ecuador,Republic,Gustavo Noboa Bejarano,594,EC
 EGY,Egypt,Africa,Northern Africa,1001449,1922,68470000,63.3,82710,75617,Misr,Republic,Hosni Mubarak,608,EG
 ERI,Eritrea,Africa,Eastern Africa,117600,1993,3850000,55.8,650,755,Ertra,Republic,Isayas Afewerki [Isaias Afwerki],652,ER
@@ -104,7 +104,7 @@ IRL,Ireland,Europe,British Islands,70273,1921,3775100,76.8,75921,73132,Ireland/e
 IRN,Iran,Asia,Southern and Central Asia,1648195,1906,67702000,69.7,195746,160151,Iran,Islamic Republic,Ali Mohammad Khatami-Ardakani,1380,IR
 IRQ,Iraq,Asia,Middle East,438317,1932,23115000,66.5,11500,NuLL,Al- Iraq,Republic,Saddam Hussein al-Takriti,1365,IQ
 ISL,Iceland,Europe,Nordic Countries,103000,1944,279000,79.4,8255,7474,Island,Republic,olafur Ragnar GrImsson,1449,IS
-ISR,Israel,Asia,Middle East,21056,1948,6217000,78.6,97477,98577,Yisra’el/Isra’il,Republic,Moshe Katzav,1450,IL
+ISR,Israel,Asia,Middle East,21056,1948,6217000,78.6,97477,98577,Yisrael/Israil,Republic,Moshe Katzav,1450,IL
 ITA,Italy,Europe,Southern Europe,301316,1861,57680000,79,1161755,1145372,Italia,Republic,Carlo Azeglio Ciampi,1464,IT
 JAM,Jamaica,North America,Caribbean,10990,1962,2583000,75.2,6871,6722,Jamaica,Constitutional Monarchy,Elisabeth II,1530,JM
 JOR,Jordan,Asia,Middle East,88946,1946,5083000,77.4,7526,7051,Al-urdunn,Constitutional Monarchy,Abdullah II,1786,JO
@@ -115,7 +115,7 @@ KGZ,Kyrgyzstan,Asia,Southern and Central Asia,199900,1991,4699000,63.4,1626,1767
 KHM,Cambodia,Asia,Southeast Asia,181035,1953,11168000,56.5,5121,5670,Kampuchea,Constitutional Monarchy,Norodom Sihanouk,1800,KH
 KIR,Kiribati,Oceania,Micronesia,726,1979,83000,59.8,40.7,NuLL,Kiribati,Republic,Teburoro Tito,2256,KI
 KNA,Saint Kitts and Nevis,North America,Caribbean,261,1983,38000,70.7,299,NuLL,Saint Kitts and Nevis,Constitutional Monarchy,Elisabeth II,3064,KN
-KOR,South Korea,Asia,Eastern Asia,99434,1948,46844000,74.4,320749,442544,Taehan Min’guk (Namhan),Republic,Kim Dae-jung,2331,KR
+KOR,South Korea,Asia,Eastern Asia,99434,1948,46844000,74.4,320749,442544,Taehan Minguk (Namhan),Republic,Kim Dae-jung,2331,KR
 KWT,Kuwait,Asia,Middle East,17818,1961,1972000,76.1,27037,30373,Al-Kuwayt,Constitutional Monarchy (Emirate),Jabir al-Ahmad al-Jabir al-Sabah,2429,KW
 LAO,Laos,Asia,Southeast Asia,236800,1953,5433000,53.1,1292,1746,Lao,Republic,Khamtay Siphandone,2432,LA
 LBN,Lebanon,Asia,Middle East,10400,1941,3282000,71.3,17121,15129,Lubnan,Republic,emile Lahoud,2438,LB
@@ -216,7 +216,7 @@ TTO,Trinidad and Tobago,North America,Caribbean,5130,1962,1295000,68,6232,5867,T
 TuN,Tunisia,Africa,Northern Africa,163610,1956,9586000,73.7,20026,18898,Tunis/Tunisie,Republic,Zine al-Abidine Ben Ali,3349,TN
 TuR,Turkey,Asia,Middle East,774815,1923,66591000,71,210721,189122,Turkiye,Republic,Ahmet Necdet Sezer,3358,TR
 TuV,Tuvalu,Oceania,Polynesia,26,1978,12000,66.3,6,NuLL,Tuvalu,Constitutional Monarchy,Elisabeth II,3424,TV
-TWN,Taiwan,Asia,Eastern Asia,36188,1945,22256000,76.4,256254,263451,T’ai-wan,Republic,Chen Shui-bian,3263,TW
+TWN,Taiwan,Asia,Eastern Asia,36188,1945,22256000,76.4,256254,263451,Tai-wan,Republic,Chen Shui-bian,3263,TW
 TZA,Tanzania,Africa,Eastern Africa,883749,1961,33517000,52.3,8005,7388,Tanzania,Republic,Benjamin William Mkapa,3306,TZ
 uGA,uganda,Africa,Eastern Africa,241038,1962,21778000,42.9,6313,6887,uganda,Republic,Yoweri Museveni,3425,uG
 uKR,ukraine,Europe,Eastern Europe,603700,1991,50456000,66,42168,49677,ukrajina,Republic,Leonid KutSma,3426,uA
@@ -224,7 +224,7 @@ uMI,united States Minor Outlying Islands,Oceania,Micronesia/Caribbean,16,NuLL,0,
 uRY,uruguay,South America,South America,175016,1828,3337000,75.2,20831,19967,uruguay,Republic,Jorge Batlle Ibanez,3492,uY
 uSA,united States,North America,North America,9363520,1776,278357000,77.1,8510700,8110900,united States,Federal Republic,George W. Bush,3813,uS
 uZB,uzbekistan,Asia,Southern and Central Asia,447400,1991,24318000,63.7,14194,21300,uzbekiston,Republic,Islam Karimov,3503,uZ
-VAT,Holy See (Vatican City State),Europe,Southern Europe,0.4,1929,1000,NuLL,9,NuLL,Santa Sede/Città del Vaticano,Independent Church State,Johannes Paavali II,3538,VA
+VAT,Holy See (Vatican City State),Europe,Southern Europe,0.4,1929,1000,NuLL,9,NuLL,Santa Sede/Citta del Vaticano,Independent Church State,Johannes Paavali II,3538,VA
 VCT,Saint Vincent and the Grenadines,North America,Caribbean,388,1979,114000,72.3,285,NuLL,Saint Vincent and the Grenadines,Constitutional Monarchy,Elisabeth II,3066,VC
 VEN,Venezuela,South America,South America,912050,1811,24170000,73.1,95023,88434,Venezuela,Federal Republic,Hugo Chavez FrIas,3539,VE
 VGB,"Virgin Islands, British",North America,Caribbean,151,NuLL,21000,75.4,612,573,British Virgin Islands,Dependent Territory of the uK,Elisabeth II,537,VG
