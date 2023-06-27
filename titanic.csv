@@ -890,3 +890,8 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 889,0,3,"Johnston, Miss. Catherine Helen ""Carrie""",female,,1,2,W./C. 6607,23.45,,S
 890,1,1,"Behr, Mr. Karl Howell",male,26,0,0,111369,30,C148,C
 891,0,3,"Dooley, Mr. Patrick",male,32,0,0,370376,7.75,,Q
+892,0,1,"Hamish Harding",male,58,0,0,,250000,,Newfoundland
+893,0,1,"Shahzada Dawood",male,48,0,1,,250000,,Newfoundland
+894,0,1,"Suleman Dawood",male,19,0,1,,25000,,Newfoundland
+895,0,1,"Paul-Henri Nargeolet",male,77,0,0,,250000,NA,Newfoundland
+896,0,1,"Stockton Rush",male,61,0,0,,250000,,Newfoundland
